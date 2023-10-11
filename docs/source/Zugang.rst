@@ -55,7 +55,7 @@ Um die Daten angemessen zu präsentieren, ist es wichtig, sie in einen **Kontext
 * Verwendung von Metadaten
 * Daten in einen Kontext setzen
 
-**Trainingsmaterialien:** `Daten publizieren und teilen <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc4.html#/>`_ [1]
+**Trainingsmaterialien:** `Daten teilen und publizieren <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc4.html#/>`_ [1]
 
 ************
 Reifestufen
