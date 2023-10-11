@@ -273,3 +273,8 @@ sind weiterführende Informationen zur Datendokumentation zu finden.
 `UK Data Service <https://ukdataservice.ac.uk/learning-hub/research-data-management/>`_
 `UK Data Service Checkliste <https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/>`_
 
+=========
+Referenzen
+========= 
+[1] Diese Trainingmaterialien sind entstanden im Rahmen der `NFDI4Ing Special Interest Group RDM Training & Education <https://insights.sei.cmu.edu/documents/853/2010_005_001_15287.pdf>`_. 
+
