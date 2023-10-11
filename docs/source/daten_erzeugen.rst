@@ -19,7 +19,7 @@ Insgesamt ermöglicht ein "erfolgreiches" Vorgehen bei der Datenerfassung von Fo
 	* **Verfahren**, die Art und Weise der Datenerzeugung (Experimente, Instrumente, Datenbanken, ...)
 	* **Methodik**, die Prozesse, Praktiken und Prozeduren der wissenschaftlichen Forschung
 **Zwei Hauptkomponenten für das FDM während der Datenerzeugung**
-	* **Datenerfassung**, der Prozess der Datenerzeugung für die nachfolgende Analyse (generieren, sammeln) (F.4)
+	* **Datenerfassung**, der Prozess der Datenerzeugung für die nachfolgende Analyse (generieren, sammeln) 
 	* **Datendokumentation**, die erstellte Beschreibung der Datenerzeugung (Randbedingungen, Parameter, Formate, ...)
 
 
@@ -27,7 +27,7 @@ Insgesamt ermöglicht ein "erfolgreiches" Vorgehen bei der Datenerfassung von Fo
 Feldexperimente (GOLO)
 *************************
 
-Feldexperimente im Kontext von GOLO bezeichnen die **praktische Durchführung** von Untersuchungen in natürlichen Umgebungen, um empirische Daten zu erfassen. Diese Experimente umfassen die Aufnahme einer breiten Palette von Daten direkt im Feld, was zur Erfassung verschiedenster Datentypen führt. Dabei werden **Felddaten** aus dem realen oder experimentellen Betrieb eines cyberphysischen Systems gesammelt. Die Besonderheit eines Feldexperiments liegt in der Einbeziehung von Designvariablen, wobei gleichzeitig höchstmögliche Natürlichkeit und Praxisnähe gewährleistet werden. 
+Feldexperimente im Kontext von GOLO umfassen die **praktische Durchführung** von Untersuchungen in natürlichen Umgebungen, um empirische Daten zu erfassen. Diese Experimente umfassen die Aufnahme einer breiten Palette von Daten direkt im Feld, was zur Erfassung verschiedenster Datentypen führt. Dabei werden **Felddaten** aus dem realen oder experimentellen Betrieb eines cyberphysischen Systems gesammelt. Die Besonderheit eines Feldexperiments liegt in der Einbeziehung von Designvariablen, wobei gleichzeitig höchstmögliche Natürlichkeit und Praxisnähe gewährleistet werden. 
 
 * Durchführung einer Untersuchung in einem natürlichen Umfeld zur Erhebung empirischer Daten
 * Aufnahme von Daten in einem Feld
@@ -54,9 +54,9 @@ Durch die klare Strukturierung dieser Aktivitäten werden Feldexperimente effizi
   	* Aufnahme von Daten in einem Feld
 **Felddokumentation**, Dokumentation der Feldgegebenheiten im definierten Zeitraum während der Datenerhebung
 	* Bestimmung der zu dokumentierenden Feldgegebenheiten (Was?)
-  	* Rahmenbedingungen, Unsicherheiten,...
+  		* Rahmenbedingungen, Unsicherheiten,...
 	* Art der Dokumentation bestimmen (Wie?)
-  	* Händisch, digital,...
+  		* Händisch, digital,...
 
 **Trainingsmaterialien:** `Daten erheben <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc2.html#/>`_ [1]
 
