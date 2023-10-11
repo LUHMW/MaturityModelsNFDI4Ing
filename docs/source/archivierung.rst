@@ -26,7 +26,7 @@ Die Archivierung dient verschiedenen Zwecken, um die Sicherheit und Bedeutung vo
 * Die Authentizität und Integrität von Daten muss bewahrt werden, dabei hilft ein vertrauenswürdiges Repositorium
 
 *******************************
-Aktivitäten der Archivierung
+Aktivitäten für die Archivierung
 *******************************
 
 Die Archivierung von Daten beinhaltet eine Reihe von wichtigen Aktivitäten. Dazu gehört die Übertragung oder Transkription der Daten in die gewünschte Schriftform. Es ist empfehlenswert, normierte und offene **Dateiformate** zu nutzen und diese regelmäßig auf ihre Aktualität hin zu überprüfen.
@@ -42,6 +42,8 @@ Ein weiterer essentieller Schritt ist die regelmäßige Durchführung von **Back
 * Die Daten je nach Wissenschaftsdisziplin einem geeigneten Repositorium archivieren
 * Beifügen von zusätzlichem Material wie z.B. genutzten Fragebögen, Variablenbeschriftungen etc.
 * Regelmäßige Back Ups durchführen
+
+**Trainingsmaterialien:** `Daten archivieren <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc5.html#/>`_ [1]
 
 ************
 Reifestufen
