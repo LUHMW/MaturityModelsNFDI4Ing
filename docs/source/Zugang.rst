@@ -230,8 +230,7 @@ Level 5
 Checkliste
 ************
 
-Hier finden sie eine `Checkliste <checklists/Checkliste_Zugriff.pdf>`_ `[Checkliste](docs/source/checklists/Checkliste_Zugriff.pdf)`_ 
-`Checkliste </docs/source/02_Checkliste_Zugriff.pdf>`_ zum selbeständigen überprüfen der Ziele und Praktiken der Reifestufen im eigenen Projekt.
+Hier finden sie eine `Checkliste <https://git.rwth-aachen.de/nfdi4ing/s-1/fdm-reifegradmodelle/checklists/-/blob/main/Checkliste_Zugriff.pdf>`_ zum selbeständigen überprüfen der Ziele und Praktiken der Reifestufen im eigenen Projekt.
 
 ***************************
 Weiterführende Materialien
