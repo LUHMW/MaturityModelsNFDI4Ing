@@ -18,7 +18,6 @@ Die einzelnen Reifegradmodelle folgen einer definierten einheitlichen Reifegradc
 .. image:: images/RG_Characteristik_de.svg
   :width: 800 
 
-
 =========
 Merkmalsauflistung
 =========
