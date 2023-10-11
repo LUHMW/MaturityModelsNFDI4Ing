@@ -2,8 +2,10 @@
 
 
 #########
-Analyse (in progress)
+Analyse
 #########
+
+in progress
 
 *************************
 Was ist Analyse?
