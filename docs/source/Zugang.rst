@@ -240,7 +240,6 @@ Auf der Internetseite
 `Forschungsdaten.info <https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/>`_
 sind weiterführende Informationen zu finden.
 
-`NFDI4Ing Trainingsmaterialien Daten teilen und publizieren: <https://git.rwth-aachen.de/nfdi4ing/education/data-life-cycle/-/blob/main/NFDI4Ing_Training_DLC_4_Daten_teilen_und_publizieren.pdf>`_
 
 `DataWiz (2017): Best Practices of Data Publication. Version Draft 0.2. <https://datawizkb.leibniz-psychology.org/index.php/tools-and-resources/checklists-and-guidance/>`_
 
