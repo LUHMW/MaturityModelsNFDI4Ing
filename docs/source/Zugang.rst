@@ -243,3 +243,8 @@ sind weiterführende Informationen zu finden.
 `DataWiz (2017): Best Practices of Data Publication. Version Draft 0.2. <https://datawizkb.leibniz-psychology.org/index.php/tools-and-resources/checklists-and-guidance/>`_
 
 `GO-FAIR <https://www.go-fair.org/wp-content/uploads/2022/01/FAIRPrinciples_overview.pdf>`_
+
+=========
+Referenzen
+========= 
+[1] Diese Trainingmaterialien sind entstanden im Rahmen der `NFDI4Ing Special Interest Group RDM Training & Education <https://insights.sei.cmu.edu/documents/853/2010_005_001_15287.pdf>`_. 
