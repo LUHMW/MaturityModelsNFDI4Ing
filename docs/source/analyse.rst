@@ -17,6 +17,7 @@ Zweck der Analyse
 *************************
 
 #**Trainingsmaterialien:** `Daten erheben <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc2.html#/>`_ [1]
+
 *******************************
 Aktivitäten der Analyse
 *******************************
