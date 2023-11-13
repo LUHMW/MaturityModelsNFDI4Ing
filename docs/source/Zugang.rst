@@ -215,15 +215,17 @@ Level 5
 +-------------------------------------------------------+----------------------------------------------------------+
 | 5.5.2: Prozesse im Zusammenhang mit Strukturen oder   | Einsatz von bewährten Verfahren und Schulungen           |
 |                                                       |                                                          |
-| Plänen, Schulungen und bewährten Verfahren werden     | Ständiger Austausch mit der Community und Umsetzung      |
+| Plänen, Schulungen und bewährten Verfahren werden     |                                                          |
 |                                                       +----------------------------------------------------------+
-| entwickelt und kontinuierlich angepasst               | neuer Standards                                          |
+| entwickelt und kontinuierlich angepasst               | Ständiger Austausch mit der Community und Umsetzung      |
+|                                                       | neuer Standards                                          |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 5.5.3: Die Technologien, die den Datenzugang          | Entwickeln und nutzen neuer technischer Standards        |
 |                                                       |                                                          |
-| ermöglichen, werden regelmäßig bewertet und           | Austausch und Entwickelung technischer Systeme in der    |
+| ermöglichen, werden regelmäßig bewertet und           |                                                          |
 |                                                       +----------------------------------------------------------+
-| Verbesserungen werden umgesetzt.                      | fachspezifischen Community                               |
+| Verbesserungen werden umgesetzt.                      | Austausch und Entwickelung technischer Systeme in der    |
+|                                                       | fachspezifischen Community                               |
 +-------------------------------------------------------+----------------------------------------------------------+
 
 ************
