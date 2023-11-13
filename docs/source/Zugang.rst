@@ -215,9 +215,9 @@ Level 5
 +-------------------------------------------------------+----------------------------------------------------------+
 | 5.5.2: Prozesse im Zusammenhang mit Strukturen oder   | Einsatz von bewährten Verfahren und Schulungen           |
 |                                                       |                                                          |
-|  Plänen, Schulungen und bewährten Verfahren werden    +----------------------------------------------------------+
+| Plänen, Schulungen und bewährten Verfahren werden     +----------------------------------------------------------+
 |                                                       | Ständiger Austausch mit der Community und Umsetzung      |
-|  entwickelt und kontinuierlich angepasst              | neuer Standards                                          |
+| entwickelt und kontinuierlich angepasst               | neuer Standards                                          |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 5.5.3: Die Technologien, die den Datenzugang          | Entwickeln und nutzen neuer technischer Standards        |
 |                                                       |                                                          |
