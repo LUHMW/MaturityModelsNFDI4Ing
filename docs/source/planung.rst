@@ -123,7 +123,7 @@ Level 2
 =========
 
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |  Empfehlungen / weitere Materialien                                                                                                                                       |
+| Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                         |
 +=======================================================+==========================================================+===========================================================================================================================================================================+
 | 1.2.1: Eine Vorlage eines DMP für die Umsetzung des   | Betrachtung aller wesentlichen Aspekte für den Umgang    | `Fragenkatalog  Umgang mit Forschungsdaten DFG <https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf>`_ |
 |                                                       |                                                          |                                                                                                                                                                           |
