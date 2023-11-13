@@ -2,14 +2,14 @@ Reifegradmodelle für das Forschungsdatenmanagement in Forschungsprojekten
 ==================================================
 
 Auf dieser Website finden Sie Informationen über Reifegradmodelle und ihre Anwendung im Forschungsdatenmanagement (**FDM**).
-Für definierte Prozessbereiche finden Sie eine Seite mit allgemeinen Informationen zu 
-diesem Abschnitt und eine Auflistung von Zielen und Praktiken für die entsprechenden Reifestufen.
+Für definierte Prozessbereiche finden Sie eine individuelle Seite mit allgemeinen Informationen und einem entsprechenden Reifegradmodell zu 
+diesem Prozessbereich, sowie eine Auflistung von Zielen und Praktiken für die entsprechenden Reifestufen.
 
 
 
 Qualitätsbewertung für das Forschungsdatenmanagement in Forschungsprojekten
 --------
-Entwicklung von Reifegradmodellen für die qualitative Bewertung des Forschungsdatenmanagements in Forschungsprojekten. Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden zugehörige Aufgaben in den Forschungsprozess implementiert, um Forschenden eine möglichst prozessnahe Umsetzung des Forschungsdatenmanagements nahezulegen. Dabei werden Tasks für das Forschungsdatenmanagement auf Basis ihres Auftretens im Forschungsprozess in definierten Prozessbereichen zusammengefasst. Für diese Prozessbereiche werden einzelne Reifegradmodelle entwickelt, welche den Forschenden eine Bewertung ihres Forschungsdatenmanagements in Abhängigkeit des Forschungsprozesses ermöglichen. Die Reifegradmodelle folgen dabei einer  `allgemeinen Reifegradcharakteristik <https://maturitymodel-rtd-tutorial.readthedocs.io/en/latest/reifegradmodell.html#allgemeine-reifegradcharakteristik>`_, welche eine qualitative Bewertung auf diskreten Reifegraden, von einem Ausgangszustand bis zu einem optimierenden Endzustand, ermöglicht. 
+Entwicklung von Reifegradmodellen für die qualitative Bewertung des Forschungsdatenmanagements in Forschungsprojekten. Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden zugehörige Aufgaben in den Forschungsprozess implementiert, um Forschenden eine möglichst prozessnahe Umsetzung des Forschungsdatenmanagements nahezulegen. Dabei werden Tasks für das Forschungsdatenmanagement auf Basis ihres Auftretens im Forschungsprozess in definierten Prozessbereichen zusammengefasst. Für diese Prozessbereiche werden einzelne Reifegradmodelle entwickelt, welche den Wissenschaftlern eine Bewertung ihres Forschungsdatenmanagements in Abhängigkeit des Forschungsprozesses ermöglichen. Die Reifegradmodelle folgen dabei einer `allgemeinen Reifegradcharakteristik <https://maturitymodel-rtd-tutorial.readthedocs.io/en/latest/reifegradmodell.html#allgemeine-reifegradcharakteristik>`_, welche eine qualitative Bewertung auf verschiedenen Reifestufen, von einem Ausgangszustand bis zu einem optimierenden Endzustand, ermöglicht.
 
 An wen richten sich die Modelle?
 --------
