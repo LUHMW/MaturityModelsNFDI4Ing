@@ -112,39 +112,39 @@ Reifestufen
 =========
 Level 1
 =========
-* Datenmanagementplanung läuft intuitiv ab
+* Die Datenmanagementplanung läuft intuitiv ab
 * Es wird intuitiv ein DMP erstellt und ausgefüllt (ad hoc)
 * Keine Planung wie ein DMP aussehen soll
-* Ausführung ist abhängig von Motivation des Forschenden
+* Die Ausführung ist abhängig von individuellen Motivation der Forschenden
 
 
 =========
 Level 2 
 =========
 
-+-------------------------------------------------------+----------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |
-+=======================================================+==========================================================+
-| 1.2.1: Eine Vorlage eines DMP für die Umsetzung des   | Betrachtung aller wesentlichen Aspekte für den Umgang    |
-|                                                       |                                                          |
++-------------------------------------------------------+----------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |  Empfehlungen / weitere Materialien                      |
++=======================================================+==========================================================+==========================================================+
+| 1.2.1: Eine Vorlage eines DMP für die Umsetzung des   | Betrachtung aller wesentlichen Aspekte für den Umgang    | `Fragenkatalog - Umgang mit Forschungsdaten (DFG) <https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf>`_  |
+|                                                       |                                                          |                                                          
 | Datenmanagement im Forschungsprojekt wird erstellt    | mit Forschungsdaten                                      |
 |                                                       +----------------------------------------------------------+
 |                                                       | Berücksichtigung der Anforderungen des Fördergebers      |
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+----------------------------------------------------------+
 | 1.2.2: Ziele, Prioritäten und Umfang des FDM wird     | Identifizierung von forschungsrelevanten Inhalten        |
 |                                                       |                                                          |
-| orientiert am Forschungsprojekt geplant und bei der   | bezüglich des Datenmanagement (bspw. Maschinen,          |
+| orientiert am Forschungsprojekt geplant und bei der   | bezüglich des Datenmanagements (bspw. Maschinen,          |
 |                                                       |                                                          |
 | Antragsstellung berücksichtigt                        | Feldversuche, …)                                         |
-|                                                       +----------------------------------------------------------+
+|                                                       +----------------------------------------------------------+----------------------------------------------------------+
 |                                                       | Benötigte Ressourcen (Kosten, Personal, etc.)            |
 |                                                       |                                                          |
 |                                                       | kalkulieren und planen                                   |
-|                                                       +----------------------------------------------------------+
+|                                                       +----------------------------------------------------------+----------------------------------------------------------+
 |                                                       | Berücksichtigung von Anforderungen des Fördergebers      |
 |                                                       |                                                          |
 |                                                       | zur Umsetzung des FDM                                    |
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+----------------------------------------------------------+
 
 
 ========
