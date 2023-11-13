@@ -24,7 +24,7 @@ Ein zentrales Instrument in diesem Zusammenhang ist der **Datenmanagementplan** 
 Zweck der Planung
 *************************
 
-Die Planung im Forschungsdatenmanagement (FDM) erfüllt verschiedene zentrale Zwecke. Erstens zielt sie darauf ab, die **langfristige Zugänglichkeit und Nutzbarkeit** von Daten sicherzustellen. Durch eine strukturierte Planung werden Forschungsdaten so verwaltet, dass sie über den unmittelbaren Projektzeitraum hinaus erhalten bleiben und für künftige Nutzung zur Verfügung stehen.
+Die Planung im Forschungsdatenmanagement erfüllt verschiedene zentrale Zwecke. Erstens zielt sie darauf ab, die **langfristige Zugänglichkeit und Nutzbarkeit** von Daten sicherzustellen. Durch eine strukturierte Planung werden Forschungsdaten so verwaltet, dass sie über den unmittelbaren Projektzeitraum hinaus erhalten bleiben und für künftige Nutzung zur Verfügung stehen.
 
 Zweitens erleichtert eine frühzeitige Planung die Einhaltung von Datenpflege-Richtlinien. Diese Integration unterstützt die **Qualität** und **Integrität** der Daten über den gesamten Forschungsprozess hinweg, da von Anfang an die notwendigen Maßnahmen berücksichtigt werden können.
 
