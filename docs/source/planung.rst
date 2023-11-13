@@ -125,10 +125,10 @@ Level 2
 +-------------------------------------------------------+----------------------------------------------------------+----------------------------------------------------------+
 | Ziele                                                 | Praktiken                                                |  Empfehlungen / weitere Materialien                      |
 +=======================================================+==========================================================+==========================================================+
-| 1.2.1: Eine Vorlage eines DMP für die Umsetzung des   | Betrachtung aller wesentlichen Aspekte für den Umgang    | `Fragenkatalog -                                         |
-|                                                       |                                                          |                                                          |
-| Datenmanagement im Forschungsprojekt wird erstellt    | mit Forschungsdaten                                      |                                                          |
-|                                                       +----------------------------------------------------------+                                                          |
+| 1.2.1: Eine Vorlage eines DMP für die Umsetzung des   | Betrachtung aller wesentlichen Aspekte für den Umgang    | `Fragenkatalog - Umgang mit Forschungsdaten (DFG)        |
+|                                                       |                                                          |  <https://www.dfg.de/download/pdf/foerderung/grundlagen_ |
+| Datenmanagement im Forschungsprojekt wird erstellt    | mit Forschungsdaten                                      |  dfg_foerderung/forschungsdaten/forschungsdaten_         |
+|                                                       +----------------------------------------------------------+  checkliste_de.pdf>`_                                    |
 |                                                       | Berücksichtigung der Anforderungen des Fördergebers      |                                                          |
 +-------------------------------------------------------+----------------------------------------------------------+----------------------------------------------------------+
 | 1.2.2: Ziele, Prioritäten und Umfang des FDM wird     | Identifizierung von forschungsrelevanten Inhalten        |                                                          |
