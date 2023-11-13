@@ -13,7 +13,7 @@ Entwicklung von Reifegradmodellen für die qualitative Bewertung des Forschungsd
 
 An wen richten sich die Modelle?
 --------
-Da für die Erfüllung der Anforderungen an das Forschungsdatenmanagement in erster Linie die Forschenden verantwortlich sind, richten sich die Reifegradmodelle direkt an die Forschenden im Forschungsprojekt und ermöglichen eine Selbstbeurteilung.
+Da für die Erfüllung der Anforderungen an das Forschungsdatenmanagement in erster Linie die FOrschenden verantwortlich sind, richten sich die Reifegradmodelle direkt an die Forschenden im Forschungsprojekt und ermöglichen eine Selbstbeurteilung.
 
 
 Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
