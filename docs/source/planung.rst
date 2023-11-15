@@ -115,7 +115,6 @@ Level 1
 =========
 * Die Datenmanagementplanung läuft intuitiv ab
 * Es wird intuitiv ein DMP erstellt und ausgefüllt (ad hoc)
-* Keine Planung wie ein DMP aussehen soll
 * Die Ausführung ist abhängig von individuellen Motivation der Forschenden
 
 
