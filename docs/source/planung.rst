@@ -157,54 +157,54 @@ Level 2
 Level 3
 ========
 
-+-------------------------------------------------------+----------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |
-+=======================================================+==========================================================+
-| 1.3.1: Eine Vorlage eines DMP für die Umsetzung des   | Identifizieren von forschungsorientierten Vorlagen       |
-|                                                       |                                                          |
-| Datenmanagement ist an die fachspezifische Community  | für einen DMP                                            |
-|                                                       +----------------------------------------------------------+
-| ausgerichtet                                          | Verwendung einer etablierten DMP-Vorlage auf Basis       |
-|                                                       |                                                          |
-|                                                       | der fachspezifischen Community                           |
-+-------------------------------------------------------+----------------------------------------------------------+
-| 1.3.2: Ziele, Prioritäten und Umfang des FDM wird     | Inhaltliche Ausrichtung der Datenmanagementplanung       |
-|                                                       |                                                          |
-| an die fachspezifische Community ausgerichtet         | an die fachspezifische Community                         |
-|                                                       +----------------------------------------------------------+
-|                                                       | Berücksichtigung von domänenspezifischen                 |
-|                                                       |                                                          |
-|                                                       | Communitystandards in der Planung                        |
-|                                                       |                                                          |
-|                                                       | (möglicher Einfluss auf Projektressourcen)               |
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
++=======================================================+==========================================================+===============================================================================================================================================================================+
+| 1.3.1: Eine Vorlage eines DMP für die Umsetzung des   | Identifizieren von forschungsorientierten Vorlagen       |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| Datenmanagement ist an die fachspezifische Community  | für einen DMP                                            |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| ausgerichtet                                          | Verwendung einer etablierten DMP-Vorlage auf Basis       |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | der fachspezifischen Community                           |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1.3.2: Ziele, Prioritäten und Umfang des FDM wird     | Inhaltliche Ausrichtung der Datenmanagementplanung       |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| an die fachspezifische Community ausgerichtet         | an die fachspezifische Community                         |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+|                                                       | Berücksichtigung von domänenspezifischen                 |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | Communitystandards in der Planung                        |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | (möglicher Einfluss auf Projektressourcen)               |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 =========
 Level 4
 =========
 
-+-------------------------------------------------------+----------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |
-+=======================================================+==========================================================+
-| 1.4.1: Etablierung von Qualitätszielen                | Identifizierung von Qualitätszielen                      |
-|                                                       |                                                          |
-| für die Datenmanagementplanung                        | (bspw. Aktualität, Vollständigkeit, Relevanz der         |
-|                                                       |                                                          |
-|                                                       | Inhalte, …)                                              |
-+-------------------------------------------------------+----------------------------------------------------------+
-| 1.4.2: Die Qualität der DMPs wird im Projekt          | Überprüfung des DMP auf Einhaltung der etablierten       |
-|                                                       |                                                          |
-| über die gesamte Projektlaufzeit gesichert            | Qualitätsziele bspw.:                                    |
-|                                                       |                                                          |
-|                                                       | * Festlegen von Zeiträumen zur regelmäßigen              |
-|                                                       |                                                          |
-|                                                       |   Überprüfung der Aktualität (Aktualität)                |
-|                                                       |                                                          |
-|                                                       | * Identifizieren von Freifeldern im DMP                  |
-|                                                       |                                                          |
-|                                                       |   (Vollständigkeit)                                      |
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
++=======================================================+==========================================================+===============================================================================================================================================================================+
+| 1.4.1: Etablierung von Qualitätszielen                | Identifizierung von Qualitätszielen                      |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| für die Datenmanagementplanung                        | (bspw. Aktualität, Vollständigkeit, Relevanz der         |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | Inhalte, …)                                              |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1.4.2: Die Qualität der DMPs wird im Projekt          | Überprüfung des DMP auf Einhaltung der etablierten       |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| über die gesamte Projektlaufzeit gesichert            | Qualitätsziele bspw.:                                    |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | * Festlegen von Zeiträumen zur regelmäßigen              |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       |   Überprüfung der Aktualität (Aktualität)                |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | * Identifizieren von Freifeldern im DMP                  |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       |   (Vollständigkeit)                                      |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 
@@ -212,29 +212,29 @@ Level 4
 Level 5
 =========
 
-+-------------------------------------------------------+----------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |
-+=======================================================+==========================================================+
-| 1.5.1: Die Planung der Prozesse werden kontinuierlich | FDM-Pläne und -Verfahren werden regelmäßig auf           |
-|                                                       |                                                          |
-| und proaktiv verbessert und angepasst                 | Grundlage der Qualitätsziele bewertet und wenn möglich   |
-|                                                       |                                                          |
-|                                                       | verbessert und angepasst                                 |
-|                                                       +----------------------------------------------------------+
-|                                                       | Strukturelle Hilfsmittel (Vorlagen, DMP-Tools, etc.)     |
-|                                                       |                                                          |
-|                                                       | werden verwendet und optimiert                           |
-+-------------------------------------------------------+----------------------------------------------------------+
-| 1.5.2: Prozesse und Pläne werden mit Hilfe von        | Entwickeln und nutzen neuer technischer Standards        |
-|                                                       |                                                          |
-| bewährten Verfahren entwickelt und kontinuierlich     | Bestehende Best Practices werden innerhalb des           |
-|                                                       +----------------------------------------------------------+
-| angepasst und mit der fachspezifischen Community      | Projekts genutzt und optimiert                           |
-|                                                       +----------------------------------------------------------+
-| kommuniziert                                          | Ständiger Austausch mit der fachspezifischen             |
-|                                                       |                                                          |
-|                                                       | Community über bestehende und neue Best Practices        |
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
++=======================================================+==========================================================+===============================================================================================================================================================================+
+| 1.5.1: Die Planung der Prozesse werden kontinuierlich | FDM-Pläne und -Verfahren werden regelmäßig auf           |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| und proaktiv verbessert und angepasst                 | Grundlage der Qualitätsziele bewertet und wenn möglich   |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | verbessert und angepasst                                 |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+|                                                       | Strukturelle Hilfsmittel (Vorlagen, DMP-Tools, etc.)     |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | werden verwendet und optimiert                           |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1.5.2: Prozesse und Pläne werden mit Hilfe von        | Entwickeln und nutzen neuer technischer Standards        |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| bewährten Verfahren entwickelt und kontinuierlich     | Bestehende Best Practices werden innerhalb des           |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| angepasst und mit der fachspezifischen Community      | Projekts genutzt und optimiert                           |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| kommuniziert                                          | Ständiger Austausch mit der fachspezifischen             |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | Community über bestehende und neue Best Practices        |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 *************
 Checkliste
