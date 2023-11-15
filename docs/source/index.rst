@@ -21,7 +21,7 @@ Durch die Integration dieser Modelle in den Forschungsprozess wird eine möglich
 
 Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
 --------
-* :ref:`Planung` (1st Version)
+* :ref:`Planung` (2nd Version)
 * :ref:`Erhebung` (Use Case aus dem Bereich Feldexperimente (`TA GOLO aus der NFDI4Ing <https://nfdi4ing.de/archetypes/golo/>`_)
 * :ref:`Analyse` (not yet implemented)
 * :ref:`Archivierung` (1st Version)
