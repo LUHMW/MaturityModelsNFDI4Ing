@@ -64,10 +64,6 @@ Zusammengefasst beinhalten die Aktivitäten der Planung eine Bandbreite von Schr
 Reifestufen
 ************
 
-.. csv-table:: Planung
-   :file: images/Planung_Level2.csv
-   :widths: 30, 70
-   :header-rows: 1
 
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level                                                 | Reifestufe                                               | Charakteristik                                          |
