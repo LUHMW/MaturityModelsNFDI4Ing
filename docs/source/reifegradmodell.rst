@@ -18,9 +18,9 @@ Die einzelnen Reifegradmodelle folgen einer definierten einheitlichen Reifegradc
 .. image:: images/RG_Characteristik_de.svg
   :width: 800 
 
-=========
+
 Modellaufbau
-=========
+----------------
 Zu jedem Prozessbereich gibt es ein individuelles Reifegradmodell, welches sich an den FDM-Aufgaben dieser Phase orientiert. Neben einer Kurzbeschreibung der einzelnen Reifestufen, werden auf den einzelnen Reifestufen *Ziele* definiert, welche zum Erreichen der jeweiligen *Reifestufe* erfüllt werden müssen. Den einzelnen *Zielen* sind weitere *Praktiken* zur Erreichung dieser Ziele zugeordnet. Zudem sind den einzelnen Zielen noch *Empfehlungen/weitere Materialien*  in Form von Best Practices, weiterführenden Informationen und nutzbaren Tools und Services zugeordnet, welche sich allgemein auf die zugehörigen Ziele beziehen. Hierbei werden allgemeine und ingenieurspezifische Materialien beigefügt, welche nicht nur, aber vornehmend innerhalb der NFDI4Ing, mit ihrem Anspruch, die nationale Forschungsdateninfrastruktur der ingenieurwissenschaftlichen Forschung zu verbessern, entwickelt wurden.
 
 **********
