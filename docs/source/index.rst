@@ -13,10 +13,10 @@ Entwicklung von Reifegradmodellen für die qualitative Bewertung des Forschungsd
 
 An wen richten sich die Modelle?
 --------
-Da für die Erfüllung der Anforderungen an das Forschungsdatenmanagement in erster Linie die Forschenden verantwortlich sind, richten sich die Reifegradmodelle direkt an die Forschenden im Forschungsprojekt und ermöglichen eine Selbstbeurteilung. 
-Die Reifegradmodelle sollen den Wissenschaftlern helfen, ihre Forschungsdatenmanagementpraktiken zu verbessern und den Anforderungen an das Forschungsdatenmanagement gerecht zu werden. Jeder Prozessbereich wird auf einer eigenen Seite behandelt, auf der neben den Zielen und Praktiken auch  
-entsprechendes Reifegradmodell präsentiert wird. 
-Durch die Integration dieser Modelle in den Forschungsprozess wird eine möglichst prozessnahe Umsetzung des Forschungsdatenmanagements angestrebt. Dies unterstützt die Wissenschaftler dabei, ihre Forschungsdaten effektiv zu planen, zu erheben, zu analysieren, zu archivieren und den Zugang zu ermöglichen.
+Da für die Erfüllung der Anforderungen an das Forschungsdatenmanagement in erster Linie die Forschenden verantwortlich sind, richten sich die Reifegradmodelle direkt an die Forschenden im Forschungsprojekt. 
+Die Reifegradmodelle dienen dazu, den Forschenden im Forschungsprojekt eine Möglichkeit zur Selbstbeurteilung ihres Forschungsdatenmanagements zu bieten.
+Die Reifegradmodelle sollen den Wissenschaftlern helfen, ihre Forschungsdatenmanagementpraktiken zu verbessern und den Anforderungen an das Forschungsdatenmanagement gerecht zu werden. Dafür wird jeder Prozessbereich wird auf einer eigenen Seite dargestellt, auf der neben dem entsprechenden Reifegradmodell mit den Zielen und Praktiken auch weitere Inhalte präsentiert werden. 
+Durch die Integration dieser Modelle in den Forschungsprozess wird eine möglichst prozessnahe Umsetzung des Forschungsdatenmanagements angestrebt. Dies unterstützt die Forschenden dabei, ihre Forschungsdaten effektiv zu planen, zu erheben, zu analysieren, zu archivieren und den Zugang zu ermöglichen.
 
 
 Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
