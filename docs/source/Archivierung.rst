@@ -18,7 +18,7 @@ Archivierung bezeichnet die **langfristige Speicherung** von gesammelten Daten u
 Zweck der Archivierung
 *************************
 
-Die Archivierung dient verschiedenen Zwecken, um die Sicherheit und Bedeutung von Forschungsdaten langfristig zu gewährleisten. Unsachgemäße Speicherung birgt das **Risiko von Beschädigung** oder Verlust von Daten. Ein gut durchgeführter Archivierungsprozess ermöglicht die Interoperabilität, Langzeitarchivierung und effiziente Datenanalyse, während unzureichende Archivierung dazu führen kann, dass Daten aufgrund **veralteter Speichermedien** unbrauchbar werden. Die Bewahrung der Authentizität und Integrität von Daten ist von zentraler Bedeutung, wofür vertrauenswürdige **Repositorien** eine entscheidende Rolle spielen. Durch die Einhaltung solcher Archivierungsprinzipien können Forschende sicherstellen, dass ihre Daten auch langfristig relevant und verlässlich bleiben.
+Die Archivierung dient verschiedenen Zwecken, um die Sicherheit und Bedeutung von Forschungsdaten langfristig zu gewährleisten. Unsachgemäße Archivierung birgt das **Risiko von Beschädigung** oder Verlust von Daten. Ein gut durchgeführter Archivierungsprozess ermöglicht die Interoperabilität, Langzeitarchivierung und effiziente Datenanalyse, während unzureichende Archivierung dazu führen kann, dass Daten aufgrund **veralteter Speichermedien** unbrauchbar werden. Die Bewahrung der Authentizität und Integrität von Daten ist von zentraler Bedeutung, wofür vertrauenswürdige **Repositorien** eine entscheidende Rolle spielen. Durch die Einhaltung solcher Archivierungsprinzipien können Forschende sicherstellen, dass ihre Daten auch langfristig relevant und verlässlich bleiben.
 
 * Daten können bei unsachgemäßer Speicherung beschädigt werden oder verloren gehen 
 * Interoperabilität, Langzeitarchivierung und effiziente Datenanalyse wird durch gut durchgeführte Archivierungsprozesse gewährleistet
@@ -113,17 +113,20 @@ Level 2
 +=======================================================+==========================================================+
 | 4.2.1.: Die Organisation zu archivierender Daten      | Festlegen, wie erhobene Daten gespeichert und            |
 |                                                       |                                                          |
-| wird auf Projekt-/Organisationsebene behandelt und    | gesichert werden sollen                                  |
+| wird auf Projekt-/Organisationsebene behandelt und    | archiviert werden sollen                                 |
 |                                                       +----------------------------------------------------------+
 | definiert.                                            | Festlegen, welche Daten gespeichert werden sollen        |
 |                                                       +----------------------------------------------------------+
 |                                                       | Festlegen, für welchen Zeitraum die Daten archiviert     |
 |                                                       |                                                          |
 |                                                       | werden sollen                                            |
+|                                                       +----------------------------------------------------------+
+|                                                       | Festlegen, wer nach Projektende für die archivierten     |
+|                                                       | Daten verantwortlich ist                                 |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 4.2.2.: Erhalt von Integrität, Authentizität und      | Regelmäßiger Austausch von Datenträgern                  |
 |                                                       +----------------------------------------------------------+
-| Interpretierbarkeit auf Projektebene                  | Migration von Dateiformaten bei Veralten                 |
+| Interpretierbarkeit auf Projektebene                  | Migration von Dateiformaten bei veraltenten Formaten     |
 |                                                       +----------------------------------------------------------+
 |                                                       | Inhaltliche Beschreibung der Daten mittels Metadaten     |
 +-------------------------------------------------------+----------------------------------------------------------+
@@ -144,7 +147,7 @@ Level 3
 |                                                       |                                                          |
 |                                                       | fachspezifischen Community entspricht                    |
 +-------------------------------------------------------+----------------------------------------------------------+
-| 4.3.2.: Das Speichern der Daten wird an einen         | Zum Verständnis wichtige Metadaten werden gemeinsam      |
+| 4.3.2.: Das Archivieren der Daten wird an einen       | Zum Verständnis wichtige Metadaten werden gemeinsam      |
 |                                                       |                                                          |
 | fachspezifischen Kontext ausgerichtet                 | mit den Daten abgespeichert                              |
 |                                                       +----------------------------------------------------------+
@@ -184,11 +187,11 @@ Level 5
 +=======================================================+==========================================================+
 | 4.5.1.: Die definierten Prozesse werden kontinuierlich| Verbessern und anpassen des Managements der              |
 |                                                       |                                                          |
-| und proaktiv verbessert und angepasst                 | Archivierung auf Grundlage von neuen Standards des       |
+| und proaktiv verbessert und angepasst, um den sich    | Archivierung auf Grundlage von neuen Standards des       |
 |                                                       |                                                          |
-|                                                       | Fachbereichs                                             |
+| Anforderungen gerecht zu werden                       | Fachbereichs                                             |
 +-------------------------------------------------------+----------------------------------------------------------+
-| 4.5.2.: Die Technologien, die den Datenzugang         | Entwickeln und nutzen neuer technischer Standards        |
+| 4.5.2.: Die Technologien, die die Datenarchivierung   | Entwickeln und nutzen neuer technischer Standards        |
 |                                                       +----------------------------------------------------------+
 | ermöglichen, werden regelmäßig bewertet und           | Austausch und Entwickelung technischer Systeme in der    |
 |                                                       |                                                          |
