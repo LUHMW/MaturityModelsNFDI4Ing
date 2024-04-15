@@ -26,9 +26,9 @@ Zu jedem Prozessbereich gibt es ein individuelles Reifegradmodell, welches sich 
 .. image:: images/RGM_Modellstruktur_beide.svg
   :width: 1200 
 
-**********
+**
 Reifestufe *X*
-**********
+**
 
 +-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
