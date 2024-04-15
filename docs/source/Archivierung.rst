@@ -88,7 +88,7 @@ Reifestufen
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | zur Qualitätsprüfung eingeführt                         |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 5                                               | Optimierend                                              | Die Ablaufenden Prozesse werden permanent optimiert     |
+| Level 5                                               | Optimierend                                              | Die ablaufenden Prozesse werden permanent optimiert     |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Eigene Best Practices und Technologien zur              |
 |                                                       |                                                          |                                                         |
@@ -101,8 +101,8 @@ Reifestufen
 Level 1
 =========
 * Auf der Reifestufe 1 gibt es keine definierten Ziele, da die Archivierung von Daten intuitiv abläuft
-* Archivierung von Daten hängt von Motivation der Forschenden ab
-* Keine definierte Art und Weise Daten zu Archivieren
+* Archivierung von Daten hängt von der Motivation der Forschenden ab
+* Keine definierte Art und Weise Daten zu archivieren
 
 =========
 Level 2 
