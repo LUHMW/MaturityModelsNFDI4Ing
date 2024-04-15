@@ -5,7 +5,8 @@
 Analyse
 #########
 
-in progress
+Im prozess der Datenanalyse spielt die Weiterverarbeitung von erhobenen Daten eine zentrale Rolle. Zum einen die Weiterverarbeitung von einer oder mehreren Datenquellen, wie Datensätze im Zusammenhang mit Softwareanwendungen oder anderen digitalen Artefakten. Die **Versionierung** der Daten hin zu analysierten Daten, ermöglicht es die Verarbeitungsschritte der Daten zurückverfolgen zu können. 
+Zum anderen die **Sicherung** der Daten während des Forschungsprozesses hin zum Forschungsergebnis. 
 
 *************************
 Was ist Analyse?
