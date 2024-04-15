@@ -38,9 +38,9 @@ Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
    :hidden:
    
    planung 
-   daten_erzeugen
+   Erhebung
    analyse
-   archivierung
+   Archivierung
    Zugang
    
 .. note::
