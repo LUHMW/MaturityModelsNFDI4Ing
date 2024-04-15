@@ -108,103 +108,103 @@ Level 1
 Level 2 
 =========
 
-+-------------------------------------------------------+----------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |
-+=======================================================+==========================================================+
-| 4.2.1.: Entwickeln Sie auf Projekt- oder              | Festlegen, wie erhobene Daten gespeichert und            |
-|                                                       |                                                          |
-| Organisationsebene klare Richtlinien und Verfahren    | archiviert werden sollen                                 |
-|                                                       +----------------------------------------------------------+
-| für die Organisation und Definition                   | Festlegen, welche Daten gespeichert werden sollen        |
-|                                                       +----------------------------------------------------------+
-| der zu archivierenden Daten.                          | Festlegen, für welchen Zeitraum die Daten archiviert     |
-|                                                       |                                                          |
-|                                                       | werden sollen                                            |
-|                                                       +----------------------------------------------------------+
-|                                                       | Festlegen, wer nach Projektende für die archivierten     |
-|                                                       | Daten verantwortlich ist                                 |
-+-------------------------------------------------------+----------------------------------------------------------+
-| 4.2.2.: Erhalten Sie die  Integrität, Authentizität   | Regelmäßiger Austausch von Datenträgern                  |
-|                                                       +----------------------------------------------------------+
-| und Interpretierbarkeit der archiverten Daten         | Migration von Dateiformaten bei veraltenten Formaten     |
-|                                                       +----------------------------------------------------------+
-| auf Projektebene.                                     | Inhaltliche Beschreibung der Daten mittels Metadaten     |
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
++=======================================================+==========================================================+===============================================================================================================================================================================+
+| 4.2.1.: Entwickeln Sie auf Projekt- oder              | Festlegen, wie erhobene Daten gespeichert und            |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| Organisationsebene klare Richtlinien und Verfahren    | archiviert werden sollen                                 |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| für die Organisation und Definition                   | Festlegen, welche Daten gespeichert werden sollen        |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| der zu archivierenden Daten.                          | Festlegen, für welchen Zeitraum die Daten archiviert     |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+|                                                       | werden sollen                                            |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+|                                                       | Festlegen, wer nach Projektende für die archivierten     |                                                                                                                                                                               |
+|                                                       | Daten verantwortlich ist                                 |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4.2.2.: Erhalten Sie die  Integrität, Authentizität   | Regelmäßiger Austausch von Datenträgern                  |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| und Interpretierbarkeit der archiverten Daten         | Migration von Dateiformaten bei veraltenten Formaten     |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| auf Projektebene.                                     | Inhaltliche Beschreibung der Daten mittels Metadaten     |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 ========
 Level 3
 ========
 
-+-------------------------------------------------------+----------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |
-+=======================================================+==========================================================+
-| 4.3.1.: Richten Sie das Management der Archivierung   | Identifizieren und einbeziehen von gemeinschaftsweiten   |
-|                                                       |                                                          |
-| nach fachspezifischen Communitystandards aus, um eine | Regelungen und Standards (Best Practices)                |
-|                                                       +----------------------------------------------------------+
-| effektive und konsistente Archivierung                | Nutzen eines Repositoriums, das den Standards der        |
-|                                                       |                                                          |
-| zu gewährleisten.                                     | fachspezifischen Community entspricht                    |
-+-------------------------------------------------------+----------------------------------------------------------+
-| 4.3.2.: Passen Sie das Archivieren der Daten  an einen| Zum Verständnis wichtige Metadaten werden gemeinsam      |
-|                                                       |                                                          |
-| fachspezifischen Kontext an, um sicherzustellen, dass | mit den Daten archiviert                                 |
-|                                                       +----------------------------------------------------------+
-| die Daten angemessen strukturiert und dokument werden.| Nutzen von standardisierten Dateiformaten                |
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
++=======================================================+==========================================================+===============================================================================================================================================================================+
+| 4.3.1.: Richten Sie das Management der Archivierung   | Identifizieren und einbeziehen von gemeinschaftsweiten   |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| nach fachspezifischen Communitystandards aus, um eine | Regelungen und Standards (Best Practices)                |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| effektive und konsistente Archivierung                | Nutzen eines Repositoriums, das den Standards der        |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| zu gewährleisten.                                     | fachspezifischen Community entspricht                    |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4.3.2.: Passen Sie das Archivieren der Daten  an einen| Zum Verständnis wichtige Metadaten werden gemeinsam      |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| fachspezifischen Kontext an, um sicherzustellen, dass | mit den Daten archiviert                                 |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| die Daten angemessen strukturiert und dokument werden.| Nutzen von standardisierten Dateiformaten                |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 =========
 Level 4
 =========
 
-+-------------------------------------------------------+----------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |
-+=======================================================+==========================================================+
-| 4.4.1.: Legen Sie quantitative Qualitätsziele für die | Identifizieren und einbeziehen von Metriken              |
-|                                                       +----------------------------------------------------------+
-| Archivierung fest, um die Effizienz und Effektivität  | Definieren von KPIs für die Qualitätskontrolle           |
-|                                                       +----------------------------------------------------------+
-| des Archivierungsprozesses zu verbessern und          | Etablieren von quantitative Qualitätszielen              |
-|                                                       |                                                          |
-| zu überwachen.                                        |                                                          |
-+-------------------------------------------------------+----------------------------------------------------------+
-| 4.4.2.: Implementieren Sie Mechanismen zur            | Überprüfen der Ausführung im Hinblick auf definierte     |
-|                                                       |                                                          |
-| Sicherstellung der Datenqualität der archivierten     | relevante Merkmale                                       |
-|                                                       +----------------------------------------------------------+
-| Daten, um sicherzustellen, dass die Daten korrekt,    | Einführen von regelmäßiger Überprüfung zur Datenqualität |
-|                                                       |                                                          |
-| vollständig und konsistent sind.                      | und Umsetzung                                            |
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
++=======================================================+==========================================================+===============================================================================================================================================================================+
+| 4.4.1.: Legen Sie quantitative Qualitätsziele für die | Identifizieren und einbeziehen von Metriken              |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| Archivierung fest, um die Effizienz und Effektivität  | Definieren von KPIs für die Qualitätskontrolle           |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| des Archivierungsprozesses zu verbessern und          | Etablieren von quantitative Qualitätszielen              |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| zu überwachen.                                        |                                                          |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4.4.2.: Implementieren Sie Mechanismen zur            | Überprüfen der Ausführung im Hinblick auf definierte     |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| Sicherstellung der Datenqualität der archivierten     | relevante Merkmale                                       |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| Daten, um sicherzustellen, dass die Daten korrekt,    | Einführen von regelmäßiger Überprüfung zur Datenqualität |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| vollständig und konsistent sind.                      | und Umsetzung                                            |                                                                                                                                                                               |
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 =========
 Level 5
 =========
 
-+-------------------------------------------------------+----------------------------------------------------------+
-| Ziele                                                 | Praktiken                                                |
-+=======================================================+==========================================================+
-| 4.5.1.: Etablieren Sie einen kontinuierlichen         | Verbessern und anpassen des Managements der              |
-|                                                       |                                                          |
-| Verbesserungsprozess für die definierten              | Archivierung auf Grundlage von neuen Standards des       |
-|                                                       |                                                          |
-| Archivierungsprozesse, um deren Effektivität und      | Fachbereichs                                             |
-|                                                       |                                                          |
-| Effizienz kontinuierlich zu optimieren.               |                                                          |       
-+-------------------------------------------------------+----------------------------------------------------------+
-| 4.5.2.: Bewerten Sie regelmäßig die Technologien,     | Entwickeln und nutzen neuer technischer Standards        |
-|                                                       +----------------------------------------------------------+
-| die für die Datenarchivierung verwendet werden,       | Austausch und Entwickelung technischer Systeme in der    |
-|                                                       |                                                          |
-| und setzen Sie Verbesserungen um, um sicherzustellen, | fachspezifischen Community                               |
-|                                                       |                                                          |
-| dass die Daten langfristig zugänglich, sicher und in  |                                                          |
-|                                                       |                                                          |
-| einem angemessenen Format archiviert werden.          |                                                          |    
-+-------------------------------------------------------+----------------------------------------------------------+
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
++=======================================================+==========================================================+===============================================================================================================================================================================+
+| 4.5.1.: Etablieren Sie einen kontinuierlichen         | Verbessern und anpassen des Managements der              |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| Verbesserungsprozess für die definierten              | Archivierung auf Grundlage von neuen Standards des       |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| Archivierungsprozesse, um deren Effektivität und      | Fachbereichs                                             |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| Effizienz kontinuierlich zu optimieren.               |                                                          |                                                                                                                                                                               |      
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4.5.2.: Bewerten Sie regelmäßig die Technologien,     | Entwickeln und nutzen neuer technischer Standards        |                                                                                                                                                                               |
+|                                                       +----------------------------------------------------------+                                                                                                                                                                               |
+| die für die Datenarchivierung verwendet werden,       | Austausch und Entwickelung technischer Systeme in der    |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| und setzen Sie Verbesserungen um, um sicherzustellen, | fachspezifischen Community                               |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| dass die Daten langfristig zugänglich, sicher und in  |                                                          |                                                                                                                                                                               |
+|                                                       |                                                          |                                                                                                                                                                               |
+| einem angemessenen Format archiviert werden.          |                                                          |                                                                                                                                                                               |    
++-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 *************
 Checkliste
