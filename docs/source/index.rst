@@ -37,9 +37,9 @@ Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
    :caption: FDM Lebenszyklus
    :hidden:
    
-   planung 
+   Planung 
    Erhebung
-   analyse
+   Analyse
    Archivierung
    Zugang
    
