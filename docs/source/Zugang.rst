@@ -128,7 +128,7 @@ Level 2
 +-------------------------------------------------------+----------------------------------------------------------+
 | 5.2.3: Definieren Sie auf Projekt- oder               | Ermitteln und definieren von Anforderungen an die        |
 |                                                       |                                                          |
-|Organisationsebene den Speicherort der zugänglich      | projektinterne Nutzung eines Speicherorts                |
+| Organisationsebene den Speicherort der zugänglich     | projektinterne Nutzung eines Speicherorts                |
 |                                                       +----------------------------------------------------------+
 | gemachten Daten so, dass der Zugang und das Auffinden | Auswahl und Bestimmung eines Speicherorts                |
 |                                                       |                                                          |
