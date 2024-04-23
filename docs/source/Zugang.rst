@@ -169,7 +169,7 @@ Level 3
 |                                                       +----------------------------------------------------------+
 | gemachten Daten fachspezifischen Communitystandards   | Teilen der Daten in einem etablierten Datenformat        |
 |                                                       +----------------------------------------------------------+
-| Gentsprechen und für die Nachnutzung geeignet sind.   | Verwenden von domänenrelevanten Metadatenstandards       |
+| entsprechen und für die Nachnutzung geeignet sind.    | Verwenden von domänenrelevanten Metadatenstandards       |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 5.3.5: Überprüfen Sie, ob die verwendeten technischen | Entwickeln oder Auswahl eines technischen Systems,       |
 |                                                       |                                                          |
@@ -186,7 +186,7 @@ Level 4
 +-------------------------------------------------------+----------------------------------------------------------+
 | Ziele                                                 | Praktiken                                                |
 +=======================================================+==========================================================+
-| 5.4.1: Etablierem Sie quantitative Qualitätsziele     | Identifizieren und einbeziehen von Metriken              |
+| 5.4.1: Etablieren Sie quantitative Qualitätsziele     | Identifizieren und einbeziehen von Metriken              |
 |                                                       +----------------------------------------------------------+
 | für den Datenzugang.                                  | Definieren von KPIs für die Qualitätskontrolle           |
 |                                                       +----------------------------------------------------------+
