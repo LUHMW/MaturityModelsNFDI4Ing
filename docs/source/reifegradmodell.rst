@@ -47,6 +47,7 @@ Zu jedem Prozessbereich gibt es ein individuelles Reifegradmodell, welches sich 
 
 
 
-.. footer:: Referenzen
-
-.. footer:: [1] CMMI Product Team: CMMI for Development, Version 1.3., Technical Report, 2010, `Link <https://insights.sei.cmu.edu/documents/853/2010_005_001_15287.pdf>`_.
+=========
+Referenzen
+========= 
+[1] CMMI Product Team: CMMI for Development, Version 1.3., Technical Report, 2010, `Link <https://insights.sei.cmu.edu/documents/853/2010_005_001_15287.pdf>`_.
