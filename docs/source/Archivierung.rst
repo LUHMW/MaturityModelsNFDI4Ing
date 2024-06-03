@@ -5,7 +5,7 @@ Archivierung
 ###############
 
 *************************
-Was ist Archivierung?
+Die Datenarchivierung
 *************************
 
 Archivierung bezeichnet die **langfristige Speicherung** von gesammelten Daten und den dazugehörigen Metadaten. Durch diese Praxis werden die Daten vor ungewolltem **Verlust oder Schäden geschützt**. Die Archivierung wird aufgeteilt in drei Ebenen: Gewährleistung der **Integrität**, der **Authentizität** und der **Interpretierbarkeit** der Daten. Dies sichert nicht nur die Erhaltung der Daten selbst, sondern auch ihre korrekte Bedeutung und Einordnung über die Zeit hinweg.
