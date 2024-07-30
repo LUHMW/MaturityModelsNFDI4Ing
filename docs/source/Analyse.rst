@@ -17,13 +17,14 @@ Zweck der Analyse
 *************************
 Das FDM während der Datenweiterverabeitung dient der Sicherung der Datenprovenienz der Weiterverarbeitungsschritte um datenorientierte **Nachvollziehbarkeit** der Forschungsergebnisse zu gewährleisten. So werden neben der Dokumentation der verarbeitungsschritte die verschiedenen Digitalen Objekte miteinander verknüpft und weitere Metadaten annotiert. Durch die zugrundeliegenden Datenartefakte soll die **Reproduzierbarkeit** der Forschungsergebnisse ergmöglicht werden um so einen Beitrag zur guten wissenschaftlichen Praxis zu leisten. Auch soll während der Weiterverarbeitung die Nachnutzbarkeit der Daten gesichert werden und auf nachnutzbare Dateiformate geachtet werde, da sich die Daten oftmals nur in Verbindung mit der zueghörigen Softwareumgebung nachnutzen lassen.  
 
-.. **Trainingsmaterialien:** `Daten analysieren <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/main/html_slides/startpage.html#/>`_ [1]
+
 
 *******************************
 Aktivitäten der Analyse
 *******************************
 
-
+.. **Trainingsmaterialien:** 
+`Daten analysieren <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/main/html_slides/startpage.html#/>`_ [1]
 ************
 Reifestufen
 ************
