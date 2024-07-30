@@ -22,7 +22,6 @@ Das FDM während der Datenweiterverabeitung dient der Sicherung der Datenproveni
 *******************************
 Aktivitäten der Analyse
 *******************************
-
 .. **Trainingsmaterialien:** `Daten analysieren <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/main/html_slides/startpage.html#/>`_ [1]
 
 ************
