@@ -18,10 +18,16 @@ Zweck der Analyse
 Das FDM während der Datenweiterverabeitung dient der Sicherung der Datenprovenienz der Weiterverarbeitungsschritte um datenorientierte **Nachvollziehbarkeit** der Forschungsergebnisse zu gewährleisten. So werden neben der Dokumentation der verarbeitungsschritte die verschiedenen Digitalen Objekte miteinander verknüpft und weitere Metadaten annotiert. Durch die zugrundeliegenden Datenartefakte soll die **Reproduzierbarkeit** der Forschungsergebnisse ergmöglicht werden um so einen Beitrag zur guten wissenschaftlichen Praxis zu leisten. Auch soll während der Weiterverarbeitung die Nachnutzbarkeit der Daten gesichert werden und auf nachnutzbare Dateiformate geachtet werde, da sich die Daten oftmals nur in Verbindung mit der zueghörigen Softwareumgebung nachnutzen lassen.  
 
 
-
+Die Organisaiton und Zusammenführung der Daten und
 *******************************
 Aktivitäten der Analyse
 *******************************
+
+* Datendokumentation (Metadaten annotation und weitere Dokumentation des Workflows)
+* Datenorganisation (Datenstruktur und Versionierung)
+
+
+
 **Trainingsmaterialien:** `Daten analysieren <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/main/html_slides/startpage.html#/>`_ [1]
 
 ************
@@ -31,27 +37,35 @@ Reifestufen
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level                                                 | Reifestufe                                               | Charakteristik                                          |
 +=======================================================+==========================================================+=========================================================+
-| Level 1                                               | Einstieg                                                 |                                                         |
+| Level 1                                               | Einstieg                                                 | Die Dokumentation der Datenweiterverarbeitung           |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |                                                         |
+|                                                       |                                                          | läuft intuitiv und ad hoc ab                            |
 |                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es gibt keine festgeschriebenen Workflows für die       |
 |                                                       |                                                          |                                                         |
+|                                                       |                                                          | Weiterverarbeitung der Daten                            |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 2                                               | Geführt                                                  |                                                         |
+| Level 2                                               | Geführt                                                  | Die Datenweiterverarbeitung wird entsprechend           |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |                                                         |
+|                                                       |                                                          | grundlegender Workflows geplant und durchgeführt        |
 |                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Prozesse werden auf Projekt-/ Organisations-            |
 |                                                       |                                                          |                                                         |
+|                                                       |                                                          | ebene beschrieben                                       |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende wissen, wie die Weiterverarbeitung zu        |
 |                                                       |                                                          |                                                         |
+|                                                       |                                                          | dokumentieren ist und führen eine nachvollziehbare      |
 |                                                       |                                                          |                                                         |
+|                                                       |                                                          | Datenstruktur und -organisation                         |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 3                                               | Definiert                                                |                                                         |
+| Level 3                                               | Definiert                                                | Die Datenweiterverarbeitung orientiert sich an          |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Standards aus der fachspezifischen Community            |
 |                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Best Practices und Standardprozesse aus der fach-       |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |                                                         |
-|                                                       |                                                          |                                                         |
+|                                                       |                                                          | spezifischen Community werden berücksichtigt und genutzt|
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level 4                                               | Quantitativ Geführt                                      |                                                         |
 |                                                       |                                                          |                                                         |
