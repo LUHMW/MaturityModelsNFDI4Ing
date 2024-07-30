@@ -23,8 +23,8 @@ Die Organisaiton und Zusammenführung der Daten und
 Aktivitäten der Analyse
 *******************************
 
-* Datendokumentation (Metadaten annotation und weitere Dokumentation des Workflows)
-* Datenorganisation (Datenstruktur und Versionierung)
+ Datendokumentation (Metadaten annotation und weitere Dokumentation des Workflows)
+ Datenorganisation (Datenstruktur und Versionierung)
 
 
 
