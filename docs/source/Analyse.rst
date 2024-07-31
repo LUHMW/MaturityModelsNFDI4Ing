@@ -44,7 +44,7 @@ Reifestufen
      - Charakteristik
 
    * - Level 1
-     - Einsiteg
+     - Einstieg
      - Die Planung des FDM wird intuitiv und ad hoc ausgeführt.
        
        Es sind keine festgeschriebenen Arbeitsabläufe für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang auf Projektebene beschrieben.
@@ -68,7 +68,7 @@ Reifestufen
        Forschende orientieren die Datenmanagementplanung; datenmanagementbezogene Erhebung/Analyse durchgeführt; Daten archiviert/zugänglich gemacht an domänenspezifischen Standards und etablieren diese in der Umsetzung im Rahmen des Projektes.
 
    * - Level 4
-     - Qualitätsgesichert
+     - Qualitäts Geführt
      - Es werden Qualitätskriterien für die Planung/Erhebung/Analyse/Archivierung/Zugang definiert und etabliert.
        
        Die datenmanagementbezogenen Inhalte der Planung/Erhebung/Analyse/Archivierung/Zugang werden auf Basis der definierten Qualitätskriterien hin gesichert.
