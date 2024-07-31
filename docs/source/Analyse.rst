@@ -55,10 +55,6 @@ Reifestufen
      - Geführt
      - Es werden auf Projektebene die datenmanagementbezogenen Inhalte der Planung festgelegt und durchgeführt.
        
-       Es werden auf Projektebene die datenmanagementbezogenen Inhalte der Erhebung/Analyse festgelegt und durchgeführt.
-       
-       Es werden auf Projektebene die datenmanagementbezogenen Inhalte der Archivierung/Zugang festgelegt und durchgeführt.
-       
        Forschende wissen, wie die Datenmanagementplanung durchgeführt; datenmanagementbezogene Erhebung/Analyse durchgeführt; Daten archiviert/zugänglich gemacht werden sollen und es stehen notwendige Ressourcen zur Verfügung.
        
        Es werden auf Projektebene notwendige Ressourcen für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang definiert und eingesetzt.
