@@ -58,14 +58,6 @@ Reifestufen
    * - Level 2
      - Geführt
      - Es werden auf Projektebene die datenmanagementbezogenen Inhalte der Planung festgelegt und durchgeführt.
-   
-   * - 
-     - 
-     - Es werden auf Projektebene die datenmanagementbezogenen Inhalte der Erhebung/Analyse festgelegt und durchgeführt.
-
-   * - 
-     - 
-     - Es werden auf Projektebene die datenmanagementbezogenen Inhalte der Archivierung/Zugang festgelegt und durchgeführt.
 
    * - 
      - 
