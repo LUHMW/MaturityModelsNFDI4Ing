@@ -84,9 +84,9 @@ Reifegradcharakterisitik Template
      - Chrakteristik
 
    * - Level 1
-     - Einsiteg
+     - Einstieg
      - Die Planung des FDM wird intuitiv und ad hoc ausgeführt.
-
+   
    * - 
      - 
      - Es sind keine festgeschriebenen Arbeitsabläufe für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang auf Projektebene beschrieben.
@@ -146,6 +146,3 @@ Reifegradcharakterisitik Template
    * - 
      - 
      - Es werden Best Practices und Verbesserungen für das FDM in der Planung/Erhebung/Analyse/Archivierung/Zugang entwickelt und mit der domänenspezifischen Community geteilt.
-
-
-
