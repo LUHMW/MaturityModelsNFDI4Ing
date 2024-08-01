@@ -48,7 +48,7 @@ Reifestufen
        
        intuitiv und ad hoc ausgeführt.
 
-       "-----------------------"
+         
 
        Es sind keine festgeschriebenen Arbeitsabläufe für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang auf Projektebene beschrieben.
        
