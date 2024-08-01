@@ -7,6 +7,7 @@ Durch die Integration der Forschungsdatenmanagement-Aufgaben in den ingenieurwis
 
 .. image:: images/DLC5_RGM_allg_09_26_23_de.svg
   :align: center
+  :width: 400 
 
 Eine schematische Darstellung ist in einem adaptierten Datenlebenszyklus dargestellt. Die Phase der Nachnutzung ist in die Phase der Datenerhebung integriert, da diese Phase die Erhebung neuer Daten, oder die Sammlung bestehender Daten zur Nachnutzung vorsieht.
 
