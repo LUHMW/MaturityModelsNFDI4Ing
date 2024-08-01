@@ -27,7 +27,7 @@ Zu jedem Prozessbereich gibt es ein individuelles Reifegradmodell, welches sich 
   :width: 1200 
 
 
-***Zieldefinition einer Reifestufe X***
+**Zieldefinition einer Reifestufe X**
 
 +-------------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Ziele                                                 | Praktiken                                                |  Empfehlungen/weitere Materialien                                                                                                                                             |
