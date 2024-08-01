@@ -63,6 +63,87 @@ Zusammengefasst beinhalten die Aktivitäten der Planung eine Bandbreite von Schr
 ************
 Reifestufen
 ************
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level                                                 | Reifestufe                                               | Charakteristik                                          |
++=======================================================+==========================================================+=========================================================+
+| Level 1                                               | Einstieg                                                 | Die Planung des FDM wird                                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | intuitiv und ad hoc ausgeführt.                         |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es sind keine festgeschriebenen Arbeitsabläufe          |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das FDM im Rahmen der Planung auf                   |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Projektebene beschrieben.                               |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es sind keine Werkzeuge und Software, die im            |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Rahmen des FDM für die Planung eingesetzt werden,       |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | festgelegt.                                             |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 2                                               | Geführt                                                  | Es werden auf Projektebene die datenmanagementbezogenen |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Inhalte der Planung festgelegt und durchgeführt.        |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden auf Projektebene notwendige Ressourcen        |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das FDM im Rahmen der Planung definiert und         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | eingesetzt.                                             |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende wissen, wie die Datenmanagementplanung       |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | durchgeführt werden soll und es stehen notwendige       |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Ressourcen zur Verfügung.                               |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 3                                               | Definiert                                                | Die datenmanagementbezogenen Inhalte der                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Planung werden nach domänenspezifischen                 |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Standards und Richtlinien ausgelegt.                    |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden in der Domäne etablierte Tools und Werkzeuge  |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das FDM im Rahmen der Planung identifiziert und     |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | angewendet.                                             |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende orientieren die Datenmanagementplanung an    |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | domänenspezifischen Standards und etablieren diese      |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | in der Umsetzung im Rahmen des Projektes.               |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für die Planung definiert  |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | und etabliert.                                          |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Die datenmanagementbezogenen Inhalte der                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Planung werden auf Basis der definierten                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Qualitätskriterien hin gesichert.                       |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende sichern auf Datenmanagementebene die         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Umsetzung der Planung hinsichtlich definierter          |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Qualitätskriterien.                                     |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 5                                               | Optimierend                                              | Auf Datenmanagementebene wird die Umsetzung der         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Planung proaktiv optimiert und kontinuierlich verbessert|
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | (inhaltlich und technisch).                             |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden Best Practices und Verbesserungen für         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | das FDM in der Planung entwickelt und mit der           |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | domänenspezifischen Community geteilt.                  |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 
 
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
