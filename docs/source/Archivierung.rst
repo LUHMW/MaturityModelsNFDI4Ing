@@ -48,54 +48,90 @@ Ein weiterer essentieller Schritt ist die regelmäßige Durchführung von **Back
 ************
 Reifestufen
 ************
-
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level                                                 | Reifestufe                                               | Charakteristik                                          |
 +=======================================================+==========================================================+=========================================================+
-| Level 1                                               | Einstieg                                                 | Die Archivierung von Daten findet                       |
+| Level 1                                               | Einstieg                                                 | Daten werden ad hoc und                                 |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | ad hoc und reaktiv statt                                |
+|                                                       |                                                          | reaktiv archiviert.                                     |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es sind keine festgeschriebenen Arbeitsabläufe          |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | für die Archivierung der Daten vorhanden                |
-+-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 2                                               | Geführt                                                  | Die Archivierung wird entsprechend definierter          |
+|                                                       |                                                          | für das FDM im Rahmen der Archivierung auf              |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Richtlinien geplant und durchgeführt                    |
+|                                                       |                                                          | Projektebene beschrieben.                               |
 |                                                       |                                                          +---------------------------------------------------------+
-|                                                       |                                                          | Prozesse werden auf Projekt-/Organisations-             |
+|                                                       |                                                          | Es sind keine Werkzeuge und Software, die im            |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | ebene beschrieben                                       |
-|                                                       |                                                          +---------------------------------------------------------+
-|                                                       |                                                          | Forschende wissen, wie Daten archiviert werden sollen   |
+|                                                       |                                                          | Rahmen des FDM für die Archivierung eingesetzt werden,  |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | und es stehen notwendige Ressourcen zur Verfügung       |
+|                                                       |                                                          | festgelegt.                                             |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 3                                               | Definiert                                                | Die Datenarchivierung orientiert sich an                |
+| Level 2                                               | Geführt                                                  | Es werden auf Projektebene die datenmanagementbezogenen |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Standards der fachspezifischen Community                |
+|                                                       |                                                          | Inhalte der Archivierung festgelegt und durchgeführt.   |
 |                                                       |                                                          +---------------------------------------------------------+
-|                                                       |                                                          | Best Practices und Standardprozesse aus der fach-       |
+|                                                       |                                                          | Es werden auf Projektebene notwendige Ressourcen        |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | spezifischen Community werden berücksichtigt und genutzt|
-+-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 4                                               | Quantitativ Geführt                                      | Die Qualität des Prozesses der Archivierung und         |
+|                                                       |                                                          | für das FDM im Rahmen der Archivierung definiert und    |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | der archivierten Daten wird regelmäßig überprüft        |
+|                                                       |                                                          | eingesetzt.                                             |
 |                                                       |                                                          +---------------------------------------------------------+
-|                                                       |                                                          | Es werden Kennzahlen und Metriken                       |
+|                                                       |                                                          | Forschende wissen, wie die datenmanagementbezogene      |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | zur Qualitätsprüfung eingeführt                         |
+|                                                       |                                                          | Archivierung durchgeführt werden soll und es stehen     |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | notwendige Ressourcen zur Verfügung.                    |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 5                                               | Optimierend                                              | Die ablaufenden Prozesse werden permanent optimiert     |
+| Level 3                                               | Definiert                                                | Die datenmanagementbezogenen Inhalte der                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Archivierung werden nach domänenspezifischen            |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Standards und Richtlinien ausgelegt.                    |
 |                                                       |                                                          +---------------------------------------------------------+
-|                                                       |                                                          | Eigene Best Practices und Technologien zur              |
+|                                                       |                                                          | Es werden in der Domäne etablierte Tools und Werkzeuge  |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Archivierung werden entwickelt und mit                  |
+|                                                       |                                                          | für das FDM im Rahmen der Archivierung                  |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | der fachspezifischen Community geteilt                  |
+|                                                       |                                                          | identifiziert und angewendet.                           |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende orientieren die datenmanagementbezogene      |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Archivierung an domänenspezifischen Standards und       |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | etablieren diese in der Umsetzung im Rahmen des         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Projektes.                                              |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für die Archivierung       |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | definiert und etabliert.                                |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Die datenmanagementbezogenen Inhalte der                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Archivierung werden auf Basis der definierten           |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Qualitätskriterien hin gesichert.                       |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende sichern auf Datenmanagementebene die         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Umsetzung der Archivierung hinsichtlich definierter     |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Qualitätskriterien.                                     |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 5                                               | Optimierend                                              | Auf Datenmanagementebene wird die Umsetzung der         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Archivierung proaktiv optimiert und kontinuierlich      |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | verbessert (inhaltlich und technisch).                  |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden Best Practices und Verbesserungen für         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | das FDM in der Archivierung entwickelt und mit der      |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | domänenspezifischen Community geteilt.                  |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+
 
 =========
 Level 1
