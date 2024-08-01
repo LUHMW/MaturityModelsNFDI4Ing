@@ -61,6 +61,91 @@ Um die Daten angemessen zu präsentieren, ist es wichtig, sie in einen **Kontext
 Reifestufen
 ************
 
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level                                                 | Reifestufe                                               | Charakteristik                                          |
++=======================================================+==========================================================+=========================================================+
+| Level 1                                               | Einstieg                                                 | Daten werden ad hoc und                                 |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | reaktiv zugänglich gemacht.                             |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es sind keine festgeschriebenen Arbeitsabläufe          |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das Zugänglichmachen von Daten auf                  |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Projektebene beschrieben.                               |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es sind keine Werkzeuge und Software, die im            |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Rahmen des FDM für Zugänglichmachen von Daten           |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | eingesetzt werden, festgelegt.                          |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 2                                               | Geführt                                                  | Es werden auf Projektebene die datenmanagementbezogenen |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Inhalte für das Zugänglichmachen von Daten              |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | festgelegt und durchgeführt.                            |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden auf Projektebene notwendige Ressourcen        |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das FDM für das Zugänglichmachen von Daten          |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | definiert und eingesetzt.                               |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende wissen, wie  das Zugänglichmachen            |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | von Daten durchgeführt werden soll und es stehen        |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | notwendige Ressourcen zur Verfügung.                    |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 3                                               | Definiert                                                | Die datenmanagementbezogenen Inhalte für das            |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | das Zugänglichmachen von Daten werden nach              |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | domänenspezifischen Standards und Richtlinien ausgelegt.|
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden in der Domäne etablierte Tools und Werkzeuge  |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das FDM im Rahmen des Zugänglichmachen von Daten    |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | identifiziert und angewendet.                           |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende orientieren das Zugänglichmachen von Daten   |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | an domänenspezifischen Standards und etablieren         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | diese in der Umsetzung im Rahmen des Projektes.         |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für das Zugänglichmachen   |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | von Daten definiert und etabliert.                      |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Die datenmanagementbezogenen Inhalte für das            |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Zugänglichmachen von Daten werden auf Basis             |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | der definierten Qualitätskriterien hin gesichert.       |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende sichern auf Datenmanagementebene die         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Umsetzung des Zugänglichmachen von Daten hinsichtlich   |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | definierter Qualitätskriterien.                         |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 5                                               | Optimierend                                              | Auf Datenmanagementebene wird die Umsetzung des         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Zugänglichmachen von Daten proaktiv optimiert und       |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | kontinuierlich verbessert (inhaltlich und technisch).   |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden Best Practices und Verbesserungen für         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | das Zugänglichmachen von Datenentwickelt und mit der    |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | domänenspezifischen Community geteilt.                  |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+
+
 +--------+-------------------+----------------------------------------------------------------------------------------------+
 | Level  | Reifestufe        | Charakteristik                                                                               |
 +========+===================+==============================================================================================+
