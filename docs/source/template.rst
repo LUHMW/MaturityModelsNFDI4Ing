@@ -10,7 +10,7 @@ Reifegradcharakterisitik Template
 +=======================================================+==========================================================+=========================================================+
 | Level 1                                               | Einstieg                                                 | Die Planung des FDM wird                                || Das FDM im Rahmen der Erhebung/Analyse wird             || Daten werden ad hoc und                                 |
 |                                                       |                                                          |                                                         ||                                                         ||                                                         |
-|                                                       |                                                          | intuitiv und ad hoc ausgeführt.                         || intuitiv und ad hoc ausgeführt.                         || eaktiv archiviert/ zugänglich gemacht.          
+|                                                       |                                                          | intuitiv und ad hoc ausgeführt.                         || intuitiv und ad hoc ausgeführt.                         || reaktiv archiviert/ zugänglich gemacht.          
         |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es sind keine festgeschriebenen Arbeitsabläufe          |
@@ -21,7 +21,7 @@ Reifegradcharakterisitik Template
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es sind keine Werkzeuge und Software, die im            |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang eingesetzt werden, festgelegt.   |
+|                                                       |                                                          | Rahmen des FDM für die Planung/Erhebung/Analyse/Archivierung/Zugang eingesetzt werden, festgelegt.   |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level 2                                               | Geführt                                                  | Es werden auf Projektebene die datenmanagementbezogenen |
 |                                                       |                                                          |                                                         |
