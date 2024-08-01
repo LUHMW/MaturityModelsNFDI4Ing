@@ -125,7 +125,7 @@ Reifestufen
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | Archivierens von Daten proaktiv optimiert und           |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |  kontinuierlich verbessert (inhaltlich und technisch).  |
+|                                                       |                                                          | kontinuierlich verbessert (inhaltlich und technisch).   |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es werden Best Practices und Verbesserungen für         |
 |                                                       |                                                          |                                                         |
