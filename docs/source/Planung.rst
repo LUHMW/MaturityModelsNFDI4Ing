@@ -116,7 +116,7 @@ Reifestufen
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | in der Umsetzung im Rahmen des Projektes.               |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für die Planung definiert  |
+| Level 4                                               | Quantitativ geführt                                      | Es werden Qualitätskriterien für die Planung definiert  |
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | und etabliert.                                          |
 |                                                       |                                                          +---------------------------------------------------------+
