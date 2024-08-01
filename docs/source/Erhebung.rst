@@ -63,6 +63,91 @@ Durch die klare Strukturierung dieser Aktivitäten werden Feldexperimente effizi
 ************
 Reifestufen
 ************
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level                                                 | Reifestufe                                               | Charakteristik                                          |
++=======================================================+==========================================================+=========================================================+
+| Level 1                                               | Einstieg                                                 | Das FDM im Rahmen der Erhebung wird                     |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | intuitiv und ad hoc ausgeführt.                         |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es sind keine festgeschriebenen Arbeitsabläufe          |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das FDM im Rahmen der Erhebung auf                  |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Projektebene beschrieben.                               |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es sind keine Werkzeuge und Software, die im            |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Rahmen des FDM für die Erhebung eingesetzt werden,      |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | festgelegt.                                             |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 2                                               | Geführt                                                  | Es werden auf Projektebene die datenmanagementbezogenen |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Inhalte der Erhebung festgelegt und durchgeführt.       |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden auf Projektebene notwendige Ressourcen        |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das FDM im Rahmen der Erhebung definiert und        |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | eingesetzt.                                             |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende wissen, wie die datenmanagementbezogene      |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Erhebung durchgeführt werden soll und es stehen         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | notwendige Ressourcen zur Verfügung.                    |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 3                                               | Definiert                                                | Die datenmanagementbezogenen Inhalte der                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Erhebung werden nach domänenspezifischen                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Standards und Richtlinien ausgelegt.                    |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden in der Domäne etablierte Tools und Werkzeuge  |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | für das FDM im Rahmen der Erhebung identifiziert und    |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | angewendet.                                             |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende orientieren die datenmanagementbezogene      |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Erhebung an domänenspezifischen Standards und           |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | etablieren diese in der Umsetzung im Rahmen des         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Projektes.                                              |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für die Erhebung definiert |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | und etabliert.                                          |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Die datenmanagementbezogenen Inhalte der                |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Erhebung werden auf Basis der definierten               |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Qualitätskriterien hin gesichert.                        |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Forschende sichern auf Datenmanagementebene die         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Umsetzung der Erhebung hinsichtlich definierter         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Qualitätskriterien.                                     |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 5                                               | Optimierend                                              | Auf Datenmanagementebene wird die Umsetzung der         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Erhebung proaktiv optimiert und kontinuierlich          |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | verbessert (inhaltlich und technisch).                  |
+|                                                       |                                                          +---------------------------------------------------------+
+|                                                       |                                                          | Es werden Best Practices und Verbesserungen für         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | das FDM in der Erhebung entwickelt und mit der          |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | domänenspezifischen Community geteilt.                  |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+
+
 +-----------+-------------+-----------------------------------------------------------------------------------+
 | Level     | Reifestufe  | Charakteristik                                                                    |
 +===========+=============+===================================================================================+
