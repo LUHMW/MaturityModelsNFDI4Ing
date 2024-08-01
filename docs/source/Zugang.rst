@@ -116,7 +116,7 @@ Reifestufen
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | diese in der Umsetzung im Rahmen des Projektes.         |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für das Zugänglichmachen   |
+| Level 4                                               | Quantitativ geführt                                      | Es werden Qualitätskriterien für das Zugänglichmachen   |
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | von Daten definiert und etabliert.                      |
 |                                                       |                                                          +---------------------------------------------------------+
