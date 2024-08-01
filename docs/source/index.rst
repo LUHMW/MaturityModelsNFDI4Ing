@@ -37,7 +37,7 @@ Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
    reifegradmodell
 
 .. toctree::
-   :caption: FDM Lebenszyklus
+   :caption: FDM Phasen
    :hidden:
    
    Planung 
