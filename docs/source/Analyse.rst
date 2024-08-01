@@ -90,7 +90,7 @@ Reifestufen
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | Projektes.                                              |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für die Analyse definiert  |
+| Level 4                                               | Quantitativ geführt                                      | Es werden Qualitätskriterien für die Analyse definiert  |
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | und etabliert.                                          |
 |                                                       |                                                          +---------------------------------------------------------+
