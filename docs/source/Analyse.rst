@@ -49,7 +49,9 @@ Reifestufen
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es sind keine Werkzeuge und Software, die im            |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Rahmen der Analyse eingesetzt werden, festgelegt.       |
+|                                                       |                                                          | Rahmen des FDM für die Analyse eingesetzt werden,       |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | festgelegt.                                             |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level 2                                               | Geführt                                                  | Es werden auf Projektebene die datenmanagementbezogenen |
 |                                                       |                                                          |                                                         |
@@ -57,159 +59,71 @@ Reifestufen
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es werden auf Projektebene notwendige Ressourcen        |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang                |
+|                                                       |                                                          | für das FDM im Rahmen der Analyse definiert und         |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | definiert und eingesetzt.                               |
+|                                                       |                                                          | eingesetzt.                                             |
 |                                                       |                                                          +---------------------------------------------------------+
-|                                                       |                                                          | Forschende wissen, wie die Datenmanagementplanung durchgeführt; datenmanagementbezogene Erhebung/Analyse durchgeführt; Daten archiviert/zugänglich gemacht werden sollen       |
+|                                                       |                                                          | Forschende wissen, wie die datenmanagementbezogene      |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | und es stehen notwendige Ressourcen zur Verfügung.      |
+|                                                       |                                                          | Analyse durchgeführt werden soll und es stehen          |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | notwendige Ressourcen zur Verfügung.                    |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level 3                                               | Definiert                                                | Die datenmanagementbezogenen Inhalte der                |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Planung/Erhebung/Analyse/Archivierung/Zugang werden nach domänenspezifischen   |
+|                                                       |                                                          | Analyse werden nach domänenspezifischen                 |
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | Standards und Richtlinien ausgelegt.                    |
 |                                                       |                                                          +---------------------------------------------------------+
-|                                                       |                                                          |Es werden in der Domäne etablierte Tools und Werkzeuge   |
+|                                                       |                                                          | Es werden in der Domäne etablierte Tools und Werkzeuge  |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang identifiziert und angewendet.               |
+|                                                       |                                                          | für das FDM im Rahmen der Analyse identifiziert und     |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | angewendet.                                             |
 |                                                       |                                                          +---------------------------------------------------------+
-|                                                       |                                                          | Forschende orientieren die Datenmanagementplanung; datenmanagementbezogene Erhebung/Analyse durchgeführt; Daten archiviert/zugänglich gemacht      |
+|                                                       |                                                          | Forschende orientieren die datenmanagementbezogene      |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | an domänenspezifischen Standards und etablieren         |
+|                                                       |                                                          | Analyse an domänenspezifischen Standards und            |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | diese in der Umsetzung im Rahmen des Projektes.         |
+|                                                       |                                                          | etablieren diese in der Umsetzung im Rahmen des         |
+|                                                       |                                                          |                                                         |
+|                                                       |                                                          | Projektes.                                              |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für die Planung/Erhebung/Analyse/Archivierung/Zugang              |
+| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für die Analyse definiert  |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | definiert und etabliert.                                |
+|                                                       |                                                          | und etabliert.                                          |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Die datenmanagementbezogenen Inhalte der                |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Planung/Erhebung/Analyse/Archivierung/Zugang werden auf Basis der definierten     |
+|                                                       |                                                          | Analyse werden auf Basis der definierten                |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Qualitätskriterien hin gesichert                        |
+|                                                       |                                                          | Qualitätskriterien hin gesichert.                        |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Forschende sichern auf Datenmanagementebene die         |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | dUmsetzung der Planung/Erhebung/Analyse/Archivierung/Zugang hinsichtlich |
+|                                                       |                                                          | Umsetzung der Analyse hinsichtlich definierter          |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | definierter Qualitätskriterien.                         |
+|                                                       |                                                          | Qualitätskriterien.                                     |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 5                                               | Optimierend                                              | Auf Datenmanagementebene wird die Umsetzung             |
+| Level 5                                               | Optimierend                                              | Auf Datenmanagementebene wird die Umsetzung der         |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | der Planung/Erhebung/Analyse/Archivierung/Zugang proaktiv optimiert und |
+|                                                       |                                                          | Analyse proaktiv optimiert und kontinuierlich verbessert|
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | kontinuierlich verbessert (inhaltlich und technisch).   |
+|                                                       |                                                          | (inhaltlich und technisch).                             |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es werden Best Practices und Verbesserungen für         |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | das FDM in der Planung/Erhebung/Analyse/Archivierung/Zugang entwickelt               |
+|                                                       |                                                          | das FDM in der Analyse entwickelt und mit der           |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | und mit der domänenspezifischen Community geteilt.      |
-|                                                       |                                                          |                                                         |
-|                                                       |                                                          |                                                         |
+|                                                       |                                                          | domänenspezifischen Community geteilt.                  |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 
 
 
 
 
-.. list-table:: Reifestufen
-   :header-rows: 1
 
-   * - Level
-     - Reifestufe
-     - Charakteristik
 
-   * - Level 1
-     - Einstieg
-     - Die Planung des FDM wird 
-       
-       intuitiv und ad hoc ausgeführt.
-
-         
-
-       Es sind keine festgeschriebenen Arbeitsabläufe für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang auf Projektebene beschrieben.
-       
-       Es sind keine Werkzeuge und Software, die im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang eingesetzt werden, festgelegt.
-
-   * - Level 2
-     - Geführt
-     - Es werden auf Projektebene die datenmanagementbezogenen Inhalte der Planung festgelegt und durchgeführt.
-       
-       Forschende wissen, wie die Datenmanagementplanung durchgeführt; datenmanagementbezogene Erhebung/Analyse durchgeführt; Daten archiviert/zugänglich gemacht werden sollen und es stehen notwendige Ressourcen zur Verfügung.
-       
-       Es werden auf Projektebene notwendige Ressourcen für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang definiert und eingesetzt.
-
-   * - Level 3
-     - Standardisiert
-     - Die datenmanagementbezogenen Inhalte der Planung/Erhebung/Analyse/Archivierung/Zugang werden nach domänenspezifischen Standards und Richtlinien ausgelegt.
-       
-       Es werden in der Domäne etablierte Tools und Werkzeuge für das FDM im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang identifiziert und angewendet.
-       
-       Forschende orientieren die Datenmanagementplanung; datenmanagementbezogene Erhebung/Analyse durchgeführt; Daten archiviert/zugänglich gemacht an domänenspezifischen Standards und etablieren diese in der Umsetzung im Rahmen des Projektes.
-
-   * - Level 4
-     - Qualitativ Geführt
-     - Es werden Qualitätskriterien für die Planung/Erhebung/Analyse/Archivierung/Zugang definiert und etabliert.
-       
-       Die datenmanagementbezogenen Inhalte der Planung/Erhebung/Analyse/Archivierung/Zugang werden auf Basis der definierten Qualitätskriterien hin gesichert.
-       
-       Forschende sichern auf Datenmanagementebene die Umsetzung der Planung/Erhebung/Analyse/Archivierung/Zugang hinsichtlich definierter Qualitätskriterien.
-
-   * - Level 5
-     - Optimiert
-     - Auf Datenmanagementebene wird die Umsetzung der Planung/Erhebung/Analyse/Archivierung/Zugang proaktiv optimiert und kontinuierlich verbessert (inhaltlich und technisch).
-       
-       Es werden Best Practices und Verbesserungen für das FDM in der Planung/Erhebung/Analyse/Archivierung/Zugang entwickelt und mit der domänenspezifischen Community geteilt.
-
-+---------+--------------+--------------------------------------------------------------------------------------------------------------+
-| Level   | Reifestufe   | Charakteristik                                                                                               |
-+=========+==============+==============================================================================================================+
-| Level 1 | Einstieg     | - Die Planung des FDM wird intuitiv und ad hoc ausgeführt.                                                   |
-|         |              |                                                                                                              |
-|         |              | - Es sind keine festgeschriebenen Arbeitsabläufe für das FDM im Rahmen der Planung/Erhebung/Analyse/         |
-|         |              |                                                                                                              |
-|         |              |   Archivierung/Zugang auf Projektebene beschrieben.                                                          |
-|         |              |                                                                                                              |
-|         |              | - Es sind keine Werkzeuge und Software, die im Rahmen der Planung/Erhebung/Analyse/Archivierung/Zugang       |
-|         |              |   eingesetzt werden, festgelegt.                                                                             |
-+---------+--------------+--------------------------------------------------------------------------------------------------------------+
-| Level 2 | Geführt      | - Es werden auf Projektebene die datenmanagementbezogenen Inhalte der Planung festgelegt und durchgeführt.   |
-|         |              |                                                                                                              |
-|         |              | - Forschende wissen, wie die Datenmanagementplanung durchgeführt; datenmanagementbezogene Erhebung/Analyse   |
-|         |              |   durchgeführt; Daten archiviert/zugänglich gemacht werden sollen und es stehen notwendige Ressourcen zur    |
-|         |              |   Verfügung.                                                                                                 |
-|         |              |                                                                                                              |
-|         |              | - Es werden auf Projektebene notwendige Ressourcen für das FDM im Rahmen der Planung/Erhebung/Analyse/       |
-|         |              |   Archivierung/Zugang definiert und eingesetzt.                                                              |
-+---------+--------------+--------------------------------------------------------------------------------------------------------------+
-| Level 3 | Definiert    | - Die datenmanagementbezogenen Inhalte der Planung/Erhebung/Analyse/Archivierung/Zugang werden nach          |
-|         |              |   domänenspezifischen Standards und Richtlinien ausgelegt.                                                   |
-|         |              |                                                                                                              |
-|         |              | - Es werden in der Domäne etablierte Tools und Werkzeuge für das FDM im Rahmen der Planung/Erhebung/Analyse/ |
-|         |              |   Archivierung/Zugang identifiziert und angewendet.                                                          |
-|         |              |                                                                                                              |
-|         |              | - Forschende orientieren die Datenmanagementplanung; datenmanagementbezogene Erhebung/Analyse durchgeführt;  |
-|         |              |   Daten archiviert/zugänglich gemacht an domänenspezifischen Standards und etablieren diese in der Umsetzung |
-|         |              |   im Rahmen des Projektes.                                                                                   |
-+---------+--------------+--------------------------------------------------------------------------------------------------------------+
-| Level 4 | Qualitativ   | - Es werden Qualitätskriterien für die Planung/Erhebung/Analyse/Archivierung/Zugang definiert und etabliert. |
-|         | Geführt      |                                                                                                              |
-|         |              | - Die datenmanagementbezogenen Inhalte der Planung/Erhebung/Analyse/Archivierung/Zugang werden auf Basis der |
-|         |              |   definierten Qualitätskriterien hin gesichert.                                                              |
-|         |              |                                                                                                              |
-|         |              | - Forschende sichern auf Datenmanagementebene die Umsetzung der Planung/Erhebung/Analyse/Archivierung/Zugang |
-|         |              |   hinsichtlich definierter Qualitätskriterien.                                                               |
-+---------+--------------+--------------------------------------------------------------------------------------------------------------+
-| Level 5 | Optimiert    | - Auf Datenmanagementebene wird die Umsetzung der Planung/Erhebung/Analyse/Archivierung/Zugang proaktiv      |
-|         |              |   optimiert und kontinuierlich verbessert (inhaltlich und technisch).                                        |
-|         |              |                                                                                                              |
-|         |              | - Es werden Best Practices und Verbesserungen für das FDM in der Planung/Erhebung/Analyse/Archivierung/Zugang|
-|         |              |   entwickelt und mit der domänenspezifischen Community geteilt.                                              |
-+---------+--------------+--------------------------------------------------------------------------------------------------------------+
 
 
 
