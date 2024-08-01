@@ -126,7 +126,7 @@ Reifestufen
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | Erhebung werden auf Basis der definierten               |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          | Qualitätskriterien hin gesichert.                        |
+|                                                       |                                                          | Qualitätskriterien hin gesichert.                       |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Forschende sichern auf Datenmanagementebene die         |
 |                                                       |                                                          |                                                         |
