@@ -118,7 +118,7 @@ Reifestufen
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | Projektes.                                              |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für die Erhebung definiert |
+| Level 4                                               | Quantitativ geführt                                      | Es werden Qualitätskriterien für die Erhebung definiert |
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | und etabliert.                                          |
 |                                                       |                                                          +---------------------------------------------------------+
