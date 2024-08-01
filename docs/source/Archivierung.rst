@@ -105,7 +105,7 @@ Reifestufen
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | Projektes.                                              |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
-| Level 4                                               | Quantitativ Geführt                                      | Es werden Qualitätskriterien für das Archivieren        |
+| Level 4                                               | Quantitativ geführt                                      | Es werden Qualitätskriterien für das Archivieren        |
 |                                                       |                                                          |                                                         |
 |                                                       |                                                          | von Daten definiert und etabliert.                      |
 |                                                       |                                                          +---------------------------------------------------------+
