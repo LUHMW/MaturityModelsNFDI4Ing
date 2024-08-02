@@ -11,8 +11,9 @@ Die Datenweiterverarbeitung
 *************************
 Die Phase der Analyse meint die Weiterverarbeitung von erhobenen Daten und spielt im Kontext des FDM eine wichtige Rolle für die Wahrung der Nachvollziehbarkeit und Reproduzierbarkeit resultierender Forschungsergebnisse. Adressiert wird dabei die Weiterverarbeitung von einer oder mehreren Datenquellen zu verknüpften Datenbasen und die weitere Analyse sowie Synthese für den Erkenntnisgewinn von Forschungsergebnissen. Hierbei liegt ein großer Fokus auf der Aggregation und dem Zusammenspiel verschiedener digitaler Objekte während des Forschungsprozesses, in welchem oftmals die Anwendung und Verknüpfung mit weiterer Software eine zentrale Rolle spielt. Die **Versionierung** der Daten und **Dokumentation** der Datenverarbeitungsschritte hin zu den Forschungsergebnissen ermöglicht es, diese datenorientiert reproduzieren zu können und somit die Provenienz der Daten zu sichern. Da eine Datenpublikation zumeist erst mit Erreichen eines Forschungsergebnisses und der damit verbundenen wissenschaftlichen Publikation erfolgt, spielt die Sicherung und Datenorganisation der anfallenden digitalen Objekte während des Forschungsprozesses eine wichtige Rolle.
 
-*Nachvollziehbarkeit der Datenweiterverarbeitung durch Dokumentation der Verarbeitungsschritte sichern 
-*Durch die Versionierung und Datenorganisation anfallender digitaler Objekte im Forschungsprozess soll die Reproduzierbarkeit dieser gesichert werden
+* Organisation und Strukturierung anfallender digitaler Objekte im Forschungsprozess
+* Dokumentation der Weiterverarbeitungsschritte 
+* Zusammenspiel unterschiedlicher Datenquellen und digitaler Objekte im Rahmen der Forschung beherrschbar machen
 
 
 *************************
@@ -20,6 +21,8 @@ Zweck der Analyse
 *************************
 Das FDM während der Datenweiterverabeitung dient der Sicherung der Datenprovenienz der Weiterverarbeitungsschritte um datenorientierte **Nachvollziehbarkeit** der Forschungsergebnisse zu gewährleisten. So werden neben der Dokumentation der verarbeitungsschritte die verschiedenen Digitalen Objekte miteinander verknüpft und weitere Metadaten annotiert. Durch die zugrundeliegenden Datenartefakte soll die **Reproduzierbarkeit** der Forschungsergebnisse ergmöglicht werden um so einen Beitrag zur guten wissenschaftlichen Praxis zu leisten. Auch soll während der Weiterverarbeitung die Nachnutzbarkeit der Daten gesichert werden und auf nachnutzbare Dateiformate geachtet werde, da sich die Daten oftmals nur in Verbindung mit der zueghörigen Softwareumgebung nachnutzen lassen.  
 
+* Nachvollziehbarkeit der Datenweiterverarbeitung durch Dokumentation der Verarbeitungsschritte sichern 
+* Durch die Versionierung und Datenorganisation anfallender digitaler Objekte im Forschungsprozess soll die Reproduzierbarkeit dieser gesichert werden
 
 Die Organisaiton und Zusammenführung der Daten und
 
