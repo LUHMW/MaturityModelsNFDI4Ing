@@ -11,7 +11,7 @@ Definierte Prozessbereiche
 
 +--------------------------------------------------+---------------------------------------------+
 | .. image:: images/DLC5_RGM_allg_09_26_23_de.svg  |  Hier ist der begleitende Text.             |
-|   :width: 200px                                  |  Dieser Text steht neben dem Bild.          |
+|   :width: 900px                                  |  Dieser Text steht neben dem Bild.          |
 |                                                  |  Sie können mehr Informationen hinzufügen.  |
 +--------------------------------------------------+---------------------------------------------+
 
