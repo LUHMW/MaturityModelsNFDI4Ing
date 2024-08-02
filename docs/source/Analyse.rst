@@ -11,6 +11,9 @@ Die Datenweiterverarbeitung
 *************************
 Die Phase der Analyse meint die Weiterverarbeitung von erhobenen Daten und spielt im Kontext des FDM eine wichtige Rolle für die Wahrung der Nachvollziehbarkeit und Reproduzierbarkeit resultierender Forschungsergebnisse. Adressiert wird dabei die Weiterverarbeitung von einer oder mehreren Datenquellen zu verknüpften Datenbasen und die weitere Analyse sowie Synthese für den Erkenntnisgewinn von Forschungsergebnissen. Hierbei liegt ein großer Fokus auf der Aggregation und dem Zusammenspiel verschiedener digitaler Objekte während des Forschungsprozesses, in welchem oftmals die Anwendung und Verknüpfung mit weiterer Software eine zentrale Rolle spielt. Die **Versionierung** der Daten und **Dokumentation** der Datenverarbeitungsschritte hin zu den Forschungsergebnissen ermöglicht es, diese datenorientiert reproduzieren zu können und somit die Provenienz der Daten zu sichern. Da eine Datenpublikation zumeist erst mit Erreichen eines Forschungsergebnisses und der damit verbundenen wissenschaftlichen Publikation erfolgt, spielt die Sicherung und Datenorganisation der anfallenden digitalen Objekte während des Forschungsprozesses eine wichtige Rolle.
 
+*Nachvollziehbarkeit der Datenweiterverarbeitung durch Dokumentation der Verarbeitungsschritte sichern 
+*Durch die Versionierung und Datenorganisation anfallender digitaler Objekte im Forschungsprozess soll die Reproduzierbarkeit dieser gesichert werden
+
 
 *************************
 Zweck der Analyse
