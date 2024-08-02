@@ -14,6 +14,8 @@ Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden, um Fors
 .. image:: images/Projekt_prozess.svg
    :align: center
 
+
+
 An wen richten sich die Modelle?
 --------
 Da für die Umsetzung des Forschungsdatenmanagements in erster Linie die Forschenden verantwortlich sind, richten sich die Reifegradmodelle direkt an Forschende im Forschungsprojekt. 
