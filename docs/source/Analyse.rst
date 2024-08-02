@@ -36,7 +36,6 @@ Die Datendokumentation sieht die Dokumentation des Workflows der Datenverarbeitu
 Neben der Dokumentation spielt auch die Datenorganisation der im Forschungsprozess anfallenden digitalen Objekte eine wichtige Rolle. Hier gilt es, die digitalen Objekte zu strukturieren und miteinander zu verknüpfen. Dies sieht einerseits die Verknüpfung von Metadaten, Dokumentation und aggregierten und weiterverarbeitenden Datensätzen vor. Sowie die Verknüpfung der einzelnen digitalen Objekte zur Nachvollziehbarkeit der Weiterverarbeitung. Auf diese Weise gilt es, nachvollziehbare Strukturen der digitalen Objekte in inhaltlich zusammenhängenden Ordnerstrukturen zu schaffen und Namenskonventionen zu definieren, die eine nachvollziehbare Versionierung und Strukturierung der digitalen Objekte schaffen.
 
 Neben der Strukturierung gilt es auch durch den vermehrten Einsatz von Software und anderen Analysewerkzeugen, welche zum Teil eigene Dateiformate verwenden, nachnutzbare Daten zu wahren und die Überführung und Konvertierung in kompatible Dateiformate zu bevorzugen. Gerade für die Nachnutzbarkeit der Daten ist dies ein wichtiger Faktor und wird in den Phasen des zugänglich machen und archivieren von Daten relevant und sollte im Rahmen der Analyse bereits so gut wie möglich berücksichtigt werden. 
-
 Siehe hierzu: `Archivierung <https://maturitymodelsnfdi4ing.readthedocs.io/en/latest/Archivierung.html>`_ und `Zugang <https://maturitymodelsnfdi4ing.readthedocs.io/en/latest/Zugang.html#/>`_ 
 
 
