@@ -9,6 +9,12 @@ Definierte Prozessbereiche
 |                                         |  Sie können mehr Informationen hinzufügen. |
 +----------------------+----------------------------+
 
++--------------------------------------------------+---------------------------------------------+
+| .. image:: images/DLC5_RGM_allg_09_26_23_de.svg  |  Hier ist der begleitende Text.             |
+|   :width: 200px                                  |  Dieser Text steht neben dem Bild.          |
+|                                                  |  Sie können mehr Informationen hinzufügen.  |
++--------------------------------------------------+---------------------------------------------+
+
 Durch die Integration der Forschungsdatenmanagement-Aufgaben in den ingenieurwissenschaftlichen Forschungsprozess haben sich folgende Prozessbereiche für das Forschungsdatenmanagement ergeben, für welche einzelne Reifegradmodelle entwickelt werden. Es werden die grundlegenden Aufgaben für ein vollumfängliches FDM des jeweiligen Prozessbereichs aufgezeigt, wodurch den Forschenden eine forschungsprozessorientierte Identifizierung ihrer Qualität in der Umsetzung des Forschungsdatenmanagements ermöglicht wird. 
 
 .. image:: images/DLC5_RGM_allg_09_26_23_de.svg
