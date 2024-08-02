@@ -29,9 +29,14 @@ Die Organisaiton und Zusammenführung der Daten und
 *******************************
 Aktivitäten der Analyse
 *******************************
+Das Forschungsdatenmanagement im Rahmen der Datenweiterverarbeitung beinhaltet eine Reihe wichtiger Aktivitäten. Im Vordergrung dieser Phase steht die Wahrung der Nachvollziehbarkeit der Weiterverarbeitung der Daten mit zugeörigen Aggregations-, Analyse- und Syntheseschritten und der damit technischen und inhaltlichen Sicherung der Reproduzierbarkeit der Forschungsergebnisse. Um dies zu wahren sieht das FDM in dieser Phase die **Datendokumentation** und die **Datenorganisation** vor. 
 
- Datendokumentation (Metadaten annotation und weitere Dokumentation des Workflows)
- Datenorganisation (Datenstruktur und Versionierung)
+Die Datendokumentation sieht die Dokumentation des Workflows der Datenverarbeitung bis zum Forschungsergebnis vor. Hierbei gilt es, die einzelnen Schritte mit Versuchsaufbauten, eingesetzten Werkzeugen und Tools und anderen beschreibenden Informationen und Parametern zu dokumentieren. Als sinnvolles Werkzeug für die Dokumentation haben sich elektronische Laborbücher (ELN) erwiesen. Als Output liegen somit eigene Dokumentationsdateien vor sowie die weiteren Anreicherungen der digitalen Objekte mit prozessbeschreibenden- und deskriptiven Metadaten. Prozessbeschreibende Metadaten sehen die Annotation von Methoden, Hilfsmitteln und Parametern, die zur Entstehung und Weiterverarbeitung angewendet wurden. Deskriptive Metadaten geben zusätzliche Informationen zur Verarbeitung der Daten und sind stark von der Methode abhängig.
+
+Neben der Dokumentation spielt auch die Datenorganisation der im Forschungsprozess anfallenden digitalen Objekte eine wichtige Rolle. Hier gilt es, die digitalen Objekte zu strukturieren und miteinander zu verknüpfen. Dies sieht einerseits die Verknüpfung von Metadaten, Dokumentation und aggregierten und weiterverarbeitenden Datensätzen vor. Sowie die Verknüpfung der einzelnen digitalen Objekte zur Nachvollziehbarkeit der Weiterverarbeitung. Auf diese Weise gilt es, nachvollziehbare Strukturen der digitalen Objekte in inhaltlich zusammenhängenden Ordnerstrukturen zu schaffen und Namenskonventionen zu definieren, die eine nachvollziehbare Versionierung und Strukturierung der digitalen Objekte schaffen.
+
+Neben der Strukturierung gilt es auch durch den vermehrten Einsatz von Software und anderen Analysewerkzeugen, welche zum Teil eigene Dateiformate verwenden, nachnutzbare Daten zu wahren und die Überführung und Konvertierung in kompatible Dateiformate zu bevorzugen. Gerade für die Nachnutzbarkeit der Daten ist dies ein wichtiger Faktor und wird in den Phasen des zugänglich machen und archivieren von Daten relevant und sollte im Rahmen der Analyse bereits so gut wie möglich berücksichtigt werden. Siehe hierzu: `Archivierung <https://maturitymodelsnfdi4ing.readthedocs.io/en/latest/Archivierung.html>`_ und `Zugang <https://maturitymodelsnfdi4ing.readthedocs.io/en/latest/Zugang.html#/>`_ 
+
 
 
 
