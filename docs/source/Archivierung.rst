@@ -289,7 +289,7 @@ sind weiterführende Informationen, sowie Beispiele für vertrauenswürdige Repo
 =========
 Referenzen
 ========= 
-[1] Diese Trainingmaterialien sind entstanden im Rahmen der `NFDI4Ing Special Interest Group RDM Training & Education <https://insights.sei.cmu.edu/documents/853/2010_005_001_15287.pdf>`_. 
+[1] Diese Trainingmaterialien sind entstanden im Rahmen der `NFDI4Ing Special Interest Group RDM Training & Education <https://nfdi4ing.de/special-interest-groups-sig/training-education/>`_. 
 
 
 
