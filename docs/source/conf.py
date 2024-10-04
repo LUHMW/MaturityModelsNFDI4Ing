@@ -31,7 +31,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = 'NFDI4ING_Wort-Bildmarke_POS_RGB.svg'  
+html_logo = 'NFDI4ING_Wort-Bildmarke_POS_RGB_200.png'  
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
