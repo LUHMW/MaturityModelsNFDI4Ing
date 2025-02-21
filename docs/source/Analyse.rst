@@ -138,7 +138,83 @@ Reifestufen
 |                                                       |                                                          | domänenspezifischen Community geteilt.                  |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 
+=========
+Level 1
 
+Auf der Reifestufe 1 gibt es keine definierten Ziele, da die Datenanalyse unstrukturiert und ad hoc erfolgt.
+
+Analyse- und Weiterverarbeitungsschritte sind nicht dokumentiert.
+
+Daten werden ohne einheitliche Struktur oder Standard gespeichert und verarbeitet.
+
+Die Nachvollziehbarkeit und Reproduzierbarkeit von Analyseergebnissen ist nicht sichergestellt.
+
+=========
+Level 2
+
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 2.2.1: Definieren Sie grundlegende Standards für die  | Festlegen von Standards zur Datenorganisation und        |
+| Organisation und Strukturierung digitaler Objekte     | Strukturierung                                           |
++-------------------------------------------------------+----------------------------------------------------------+
+| 2.2.2: Dokumentieren Sie die Weiterverarbeitung der   | Erfassen der wichtigsten Verarbeitungsschritte und       |
+| Daten für eine bessere Nachvollziehbarkeit.          | Methoden in einfacher Form                              |
++-------------------------------------------------------+----------------------------------------------------------+
+| 2.2.3: Integrieren Sie erste Metadaten zur            | Ergänzen von grundlegenden Metadaten zur besseren        |
+| Beschreibung der Datenanalyse.                        | Dokumentation und Organisation                         |
++-------------------------------------------------------+----------------------------------------------------------+
+
+========
+Level 3
+
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 3.3.1: Richten Sie die Datenorganisation an           | Implementierung fachspezifischer Namenskonventionen und  |
+| fachspezifischen Standards aus.                      | Strukturierungsrichtlinien                              |
++-------------------------------------------------------+----------------------------------------------------------+
+| 3.3.2: Stellen Sie sicher, dass Analyse- und         | Nutzung standardisierter Workflows für Analyseprozesse   |
+| Weiterverarbeitungsschritte nachvollziehbar sind.    |                                                          |
++-------------------------------------------------------+----------------------------------------------------------+
+| 3.3.3: Integrieren Sie Metadaten zur eindeutigen     | Erfassen von domänenspezifischen Metadaten               |
+| Beschreibung von Datenverarbeitungsschritten.        |                                                          |
++-------------------------------------------------------+----------------------------------------------------------+
+| 3.3.4: Gewährleisten Sie eine konsistente            | Verwendung einheitlicher Datenformate und Softwaretools  |
+| Strukturierung und Versionierung der Daten.         | zur Sicherung der Nachvollziehbarkeit                   |
++-------------------------------------------------------+----------------------------------------------------------+
+
+=========
+Level 4
+
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 4.4.1: Etablieren Sie Qualitätsmetriken für die      | Entwicklung und Nutzung von Kennzahlen zur               |
+| Datenanalyse.                                        | Überprüfung der Datenqualität                           |
++-------------------------------------------------------+----------------------------------------------------------+
+| 4.4.2: Stellen Sie sicher, dass alle Schritte der    | Durchführung regelmäßiger Qualitätskontrollen und        |
+| Weiterverarbeitung überprüfbar sind.                 | Validierungen                                           |
++-------------------------------------------------------+----------------------------------------------------------+
+| 4.4.3: Integrieren Sie technische Lösungen zur       | Automatisierung von Qualitätssicherungsmaßnahmen         |
+| Qualitätssicherung in die Datenanalyse.              |                                                          |
++-------------------------------------------------------+----------------------------------------------------------+
+
+=========
+Level 5
+
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 5.5.1: Optimieren und verbessern Sie den             | Einführung von kontinuierlichen Verbesserungsprozessen   |
+| Datenanalyseprozess proaktiv.                        |                                                          |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.5.2: Entwickeln Sie Best Practices zur             | Schulungen und Wissensaustausch zu etablierten Methoden  |
+| Weiterverarbeitung und Analyse.                      |                                                          |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.5.3: Evaluieren Sie regelmäßig neue Technologien   | Identifikation und Integration innovativer Methoden und  |
+| zur Datenanalyse und Implementierung.                | Softwarelösungen                                        |
++-------------------------------------------------------+----------------------------------------------------------+
 
 =========
 Level 1
