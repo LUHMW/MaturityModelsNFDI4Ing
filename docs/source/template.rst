@@ -4,6 +4,10 @@ Reifegradcharakterisitik Template
 `Hier geht es zur interaktiven Prozessansicht </prozess.svg>`_
 
 
+.. raw:: html
+  :file: embed.html
+
+
 
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level                                                 | Reifestufe                                               | Charakteristik                                          |
