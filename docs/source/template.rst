@@ -1,7 +1,7 @@
 Reifegradcharakterisitik Template
 
 
-
+`Hier geht es zur interaktiven Prozessansicht </prozess.svg>`_
 
 
 
