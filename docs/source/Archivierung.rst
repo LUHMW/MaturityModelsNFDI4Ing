@@ -14,8 +14,6 @@ Archivierung bezeichnet die **langfristige Speicherung** von gesammelten Daten u
 * Daten werden vor ungewolltem Verlust und Beschädigung geschützt
 * Drei Ebenen der Archivierung: Erhalt von Integrität, Authentizität und Interpretierbarkeit der Daten
 
-.. raw:: html
-  :file: embed.html
 
 
 *************************
