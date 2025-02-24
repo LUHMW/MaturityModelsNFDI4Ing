@@ -5,7 +5,7 @@ Auf dieser Website finden Sie Informationen über Reifegradmodelle für das Fors
 Für definierte Prozessbereiche, die einzelnen Phasen des FDM, finden Sie eine individuelle Seite mit allgemeinen Informationen und einem entsprechenden Reifegradmodell zu 
 dieser Phase. Die Reifegradmodelle besitzen für die Reifegradbestimmung eine Auflistung von Zielen und Praktiken einer entsprechenden Reifestufe.
 
-`Hier geht es zur interaktiven Prozessansicht </prozess.svg>`_
+
 
 Qualitätsbewertung für das Forschungsdatenmanagement in Forschungsprojekten
 --------
