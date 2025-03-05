@@ -14,7 +14,8 @@ Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden, um Fors
 .. image:: images/Projekt_prozess.svg
    :align: center
 
-
+.. raw:: html
+  :file: BPMN.html
 
 An wen richten sich die Modelle?
 --------
