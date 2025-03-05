@@ -15,7 +15,7 @@ Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden, um Fors
    :align: center
 
 .. raw:: html
-  :file: BPMN.html
+  :file: BPMN1.html
 
 An wen richten sich die Modelle?
 --------
