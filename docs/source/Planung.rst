@@ -62,7 +62,7 @@ Zusammengefasst beinhalten die Aktivitäten der Planung eine Bandbreite von Schr
 
 
 .. raw:: html
-  :file: BPMN-Planung.drawio.html
+  :file: BPMN-Planung.html
 
 ************
 Reifestufen
