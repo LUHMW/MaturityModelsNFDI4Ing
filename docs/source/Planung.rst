@@ -60,6 +60,10 @@ Zusammengefasst beinhalten die Aktivitäten der Planung eine Bandbreite von Schr
 * Prüfung auf Möglichkeit zur Nachnutzung bestehender Daten
 **Trainingsmaterialien:** `Planung des Forschungsvorhabens <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc1.html#/>`_ [1]
 
+
+.. raw:: html
+  :file: BPMN-Planung.drawio.html
+
 ************
 Reifestufen
 ************
