@@ -17,7 +17,7 @@ Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden, um Fors
 
 
 .. raw:: html
-    :file: BPMN2.html
+    :file: BPMN.html
 
 
 An wen richten sich die Modelle?
