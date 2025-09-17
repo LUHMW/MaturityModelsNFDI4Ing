@@ -11,8 +11,7 @@ Qualitätsbewertung für das Forschungsdatenmanagement in Forschungsprojekten
 --------
 Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden, um Forschenden eine möglichst prozessnahe Umsetzung des Forschungsdatenmanagements nahezulegen, datenmanagementbezogene Aktivitäten (*Datenmangementebene*) in den Forschungsprozess (*Forschungsebene*) implementiert. Dabei werden die Aktivitäten für das Forschungsdatenmanagement auf Basis ihres Auftretens im Forschungsprozess in definierten Prozessbereichen zusammengefasst. Für diese Prozessbereiche werden einzelne Reifegradmodelle entwickelt, welche den Forschenden eine qualitative Bewertung ihres Forschungsdatenmanagements in Abhängigkeit des Forschungsprozesses ermöglichen. Die Reifegradmodelle folgen dabei einer `allgemeinen Reifegradcharakteristik <https://maturitymodel-rtd-tutorial.readthedocs.io/en/latest/reifegradmodell.html#allgemeine-reifegradcharakteristik>`_, welche eine  Bewertung auf verschiedenen Reifestufen, von einem Ausgangszustand bis zu einem optimierenden Endzustand, ermöglicht.
 
-.. image:: images/Projekt_prozess.svg
-   :align: center
+
 
 
 \
