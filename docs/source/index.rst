@@ -15,7 +15,8 @@ Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden, um Fors
    :align: center
 
 
-
+interaktives Prozessmodell zur integration des Forschungsdatenmanagements in den Forschungsprozess 
+--------
 .. raw:: html
     :file: BPMN.html
 
@@ -35,6 +36,10 @@ Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
 * :ref:`Analyse` 
 * :ref:`Archivierung` 
 * :ref:`Zugang` 
+
+
+interaktive Übersicht der Reifegradmodelle
+--------
 
 .. raw:: html
     :file: RGM_Gesamt.html
