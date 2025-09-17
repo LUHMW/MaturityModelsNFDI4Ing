@@ -47,7 +47,7 @@ Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
     :file: RGM_Gesamt.html
 
  
-\
+
 .. toctree::
    :caption: Reifegradmodell
    :hidden:
@@ -63,7 +63,9 @@ Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
    Analyse
    Archivierung
    Zugang
-   
+
+\
+
 .. note::
 
    This project is under active development.
