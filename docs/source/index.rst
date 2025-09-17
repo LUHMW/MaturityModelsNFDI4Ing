@@ -15,6 +15,8 @@ Für die forschungsnahe Umsetzung des Forschungsdatenmanagements werden, um Fors
    :align: center
 
 
+
+
 *Interaktives Prozessmodell zur integration des Forschungsdatenmanagements in den Forschungsprozess* 
 --------
 .. raw:: html
